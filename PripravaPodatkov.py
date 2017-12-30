@@ -89,7 +89,7 @@ def velike_zacetnice(niz):
 
 def spremeni_ime_letalisca(letalisce):
     ime = letalisce[10:16]
-    dobra_imena = ['Lesce Bled', 'Ptuj Moškanjci', 'Celje', 'Novo Mesto',
+    dobra_imena = ['Lesce Bled', 'Ptuj Moškanjci', 'Celje', 'Novo mesto',
                    'Postojna', 'Maribor', 'Slovenj Gradec', 'Murska Sobota',
                    'Bovec', 'Ajdovščina', 'Velenje Lajše', 'Cerklje']
     i = letalisca.index(ime)
@@ -135,7 +135,7 @@ def preberi_lete_v_imeniku(imenik):
     for ime_datoteke in os.listdir(imenik):
         ime_letalisca = ime_datoteke
         polna_pot_datoteke = os.path.join(imenik, ime_datoteke)
-        with open(polna_pot_datoteke) as datoteka:
+        with open(polna_pot_datoteke, encoding='utf-8') as datoteka:
             vsebina_datoteke = datoteka.read()
             for blok_leta in re_bloka_leta.finditer(vsebina_datoteke):
                 leti.append(podatki_leta(blok_leta.group(0), ime_letalisca))
@@ -144,13 +144,13 @@ def preberi_lete_v_imeniku(imenik):
 
 
 def zapisi_json(podatki, ime_datoteke):
-    with open(ime_datoteke, 'w') as datoteka:
+    with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
         json.dump(podatki, datoteka, indent=2)
 
 
 
 def zapisi_csv(podatki, polja, ime_datoteke):
-    with open(ime_datoteke, 'w') as datoteka:
+    with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
         pisalec = csv.DictWriter(datoteka, polja, extrasaction='ignore')
         pisalec.writeheader()
         for podatek in podatki:
