@@ -1,0 +1,881 @@
+Datum,Točke,Ime,Država,Dolžina [km],Hitrost [km/h],Klub,Letalo,Vzlet,Pristanek,Letališče
+31.08.2017,115.55,Jure Sirok,SI,81.3,51.24,AK Edvard Rusjan,L 13 Blanik,11:55,13:41,Ajdovščina
+15.08.2017,175.14,Sandi Stanic,SI,163.82,62.43,AK Edvard Rusjan,SZD 55,13:05,15:51,Ajdovščina
+15.08.2017,150.7,Aljaž Ogrin,SI,102.85,43.9,AK Josip Krizaj Ajdovscina,L 23 Super Blanik,11:54,14:39,Ajdovščina
+15.08.2017,147.97,Darjo Gregoric,SI,116.64,55.02,AK Edvard Rusjan,Twin Astir RG,12:33,15:14,Ajdovščina
+01.08.2017,152.25,Aljaž Ogrin,SI,104.78,48.42,AK Josip Krizaj Ajdovscina,L 13 Blanik,11:51,14:34,Ajdovščina
+28.07.2017,0.0,Aljaž Ogrin,SI,218.66,48.81,AK Josip Krizaj Ajdovscina,DG 100,10:57,15:38,Ajdovščina
+19.07.2017,0.0,Aljaž Ogrin,SI,171.02,52.66,AK Josip Krizaj Ajdovscina,DG 100,10:59,14:53,Ajdovščina
+08.07.2017,0.0,Aljaž Ogrin,SI,69.19,39.54,AK Josip Krizaj Ajdovscina,DG 100,13:15,15:33,Ajdovščina
+05.07.2017,0.0,Jure Sirok,SI,71.41,28.29,AK Edvard Rusjan,L 13 Blanik,11:14,14:13,Ajdovščina
+05.07.2017,0.0,Črtomir Pavlin,SI,118.22,38.79,AK Edvard Rusjan,Twin Astir RG,11:29,14:52,Ajdovščina
+26.06.2017,241.93,Darjo Gregoric,SI,227.8,57.67,AK Edvard Rusjan,Discus,10:55,15:08,Ajdovščina
+26.06.2017,233.7,Sandi Stanic,SI,218.07,54.18,AK Edvard Rusjan,SZD 55,10:42,14:58,Ajdovščina
+19.06.2017,271.81,Robert Fiorelli,SI,247.85,52.35,AK Edvard Rusjan,SZD 55,09:43,15:19,Ajdovščina
+19.06.2017,250.54,Sandi Stanic,SI,238.77,47.16,AK Edvard Rusjan,Discus,09:58,15:25,Ajdovščina
+11.06.2017,252.92,Darjo Gregoric,SI,230.55,53.56,AK Edvard Rusjan,SZD 55,11:27,16:04,Ajdovščina
+11.06.2017,234.52,Sandi Stanic,SI,214.99,54.44,AK Edvard Rusjan,Discus,11:45,15:52,Ajdovščina
+11.06.2017,195.57,Črtomir Pavlin,SI,197.08,66.54,AK Edvard Rusjan,LAK 12,12:28,15:47,Ajdovščina
+08.06.2017,132.96,Robert Fiorelli,SI,132.53,47.45,AK Edvard Rusjan,SZD 55,11:54,14:55,Ajdovščina
+02.06.2017,219.79,Črtomir Pavlin,SI,234.45,74.51,AK Edvard Rusjan,LAK 12,11:57,15:31,Ajdovščina
+02.06.2017,74.6,Rok Kaver,SI,67.7,64.48,AK Edvard Rusjan,Twin Astir RG,11:41,12:50,Ajdovščina
+27.05.2017,191.99,Rok Kaver,SI,184.15,50.29,AK Edvard Rusjan,Discus,10:56,14:54,Ajdovščina
+27.05.2017,66.12,Luka Mihelj,SI,66.76,43.82,AK Edvard Rusjan,SZD 55,12:18,15:40,Ajdovščina
+19.05.2017,274.67,Darjo Gregoric,SI,273.4,56.57,AK Edvard Rusjan,Discus,10:55,16:32,Ajdovščina
+19.05.2017,259.12,Sandi Stanic,SI,256.22,54.31,AK Edvard Rusjan,SZD 55,11:42,16:36,Ajdovščina
+19.05.2017,0.0,Črtomir Pavlin,SI,132.31,54.75,AK Edvard Rusjan,Twin Astir RG,11:27,14:15,Ajdovščina
+01.05.2017,261.79,Robert Fiorelli,SI,228.2,77.18,AK Edvard Rusjan,Discus,10:16,13:23,Ajdovščina
+01.04.2017,279.75,Matija Znidarsic,SI,253.89,85.21,AK Postojna,Duo Discus,11:33,15:04,Ajdovščina
+06.10.2016,0.0,Luka Mihelj,SI,150.38,55.49,AK Edvard Rusjan,Twin Astir RG,12:24,15:27,Ajdovščina
+26.08.2017,135.39,Egon Malalan,SI,130.77,35.78,AK Edvard Rusjan,Discus,12:03,16:02,Bovec
+25.08.2017,78.17,Tadej Marinčič,SI,51.84,21.32,DLC,L 13 Blanik,12:23,14:58,Bovec
+24.08.2017,50.43,Tadej Marinčič,SI,37.07,22.4,DLC,L 13 Blanik,12:35,14:31,Bovec
+22.08.2017,207.15,Ambrož Vrtovec,SI,143.51,44.27,AK Edvard Rusjan,L 13 Blanik,11:16,14:54,Bovec
+15.08.2017,101.97,Egon Malalan,SI,96.29,36.83,AK Edvard Rusjan,Discus,13:04,16:03,Bovec
+14.08.2017,27.92,Egon Malalan,SI,25.1,38.48,AK Edvard Rusjan,Discus,11:35,12:25,Bovec
+14.08.2017,19.71,Egon Malalan,SI,19.32,34.74,AK Edvard Rusjan,Discus,15:17,15:56,Bovec
+13.08.2017,125.09,Egon Malalan,SI,119.58,45.43,AK Edvard Rusjan,Discus,12:37,15:33,Bovec
+13.08.2017,34.42,Egon Malalan,SI,32.76,48.26,AK Edvard Rusjan,Discus,11:42,12:32,Bovec
+02.08.2017,0.0,Stanko Marinčič,SI,98.16,38.36, No Club,L 13 Blanik,12:48,15:43,Bovec
+29.07.2017,26.24,Tadej Marinčič,SI,18.13,23.07,DLC,L 13 Blanik,13:36,14:33,Bovec
+28.07.2017,372.63,Jernej Lokovsek,SI,363.43,59.6,AK Ljubljana,Discus,09:47,15:59,Bovec
+28.07.2017,163.76,Tomislav Rogelj,SI,139.08,32.54,AK Postojna,VUK-T,12:30,17:16,Bovec
+19.07.2017,0.0,Stanko Marinčič,SI,39.39,25.53, No Club,L 13 Blanik,11:13,12:59,Bovec
+19.07.2017,0.0,Tadej Marinčič,SI,65.74,42.56,DLC,L 13 Blanik,11:13,12:56,Bovec
+16.07.2017,372.2,Jernej Lokovsek,SI,324.04,70.51,AK Ljubljana,Discus,10:51,15:45,Bovec
+16.07.2017,123.14,Milan Ota,IT,85.76,33.84,AK Edvard Rusjan,L 13 Blanik,11:51,14:34,Bovec
+16.07.2017,100.83,Stjepan Količ,SI,68.46,53.06,AK Novo mesto,L 13 Blanik,09:03,10:31,Bovec
+15.07.2017,121.43,Egon Malalan,SI,80.22,38.77,AK Edvard Rusjan,L 13 Blanik,13:42,16:11,Bovec
+15.07.2017,83.99,Egon Malalan,SI,56.83,54.1,AK Edvard Rusjan,L 13 Blanik,12:00,13:20,Bovec
+13.07.2017,0.0,Milan Ota,IT,17.43,72.29,AK Edvard Rusjan,L 13 Blanik,13:28,13:54,Bovec
+13.07.2017,0.0,Milan Ota,IT,7.49,78.84,AK Edvard Rusjan,L 13 Blanik,13:54,14:31,Bovec
+13.07.2017,0.0,Milan Ota,IT,0.0,0.0,AK Edvard Rusjan,L 13 Blanik,14:31,14:35,Bovec
+12.07.2017,61.63,Stjepan Količ,SI,43.98,28.97,AK Novo mesto,L 13 Blanik,14:05,15:53,Bovec
+12.07.2017,0.0,Milan Ota,IT,43.33,36.86,AK Edvard Rusjan,L 13 Blanik,14:05,15:57,Bovec
+09.07.2017,0.0,Milan Ota,IT,7.22,72.6,AK Edvard Rusjan,L 13 Blanik,10:45,11:01,Bovec
+09.07.2017,0.0,Milan Ota,IT,17.44,54.22,AK Edvard Rusjan,L 13 Blanik,11:01,11:36,Bovec
+09.07.2017,0.0,Milan Ota,IT,5.45,54.2,AK Edvard Rusjan,L 13 Blanik,11:36,11:54,Bovec
+09.07.2017,0.0,Milan Ota,IT,3.67,59.51,AK Edvard Rusjan,L 13 Blanik,11:57,12:13,Bovec
+09.07.2017,0.0,Milan Ota,IT,3.63,68.06,AK Edvard Rusjan,L 13 Blanik,12:21,12:35,Bovec
+09.07.2017,0.0,Milan Ota,IT,3.95,67.08,AK Edvard Rusjan,L 13 Blanik,12:35,12:49,Bovec
+09.07.2017,0.0,Milan Ota,IT,3.87,78.27,AK Edvard Rusjan,L 13 Blanik,12:57,13:12,Bovec
+09.07.2017,0.0,Milan Ota,IT,5.25,46.1,AK Edvard Rusjan,L 13 Blanik,13:12,13:32,Bovec
+09.07.2017,0.0,Milan Ota,IT,4.49,58.99,AK Edvard Rusjan,L 13 Blanik,16:57,17:13,Bovec
+09.07.2017,0.0,Milan Ota,IT,4.1,49.53,AK Edvard Rusjan,L 13 Blanik,16:42,16:57,Bovec
+22.06.2017,83.96,Žiga Hauptman,SI,60.44,43.35,AK Edvard Rusjan,L 13 Blanik,11:35,13:19,Bovec
+09.06.2017,65.59,Stanko Marinčič,SI,48.61,25.66, No Club,L 13 Blanik,11:11,13:43,Bovec
+09.06.2017,0.0,Stanko Marinčič,SI,7.15,85.8, No Club,L 13 Blanik,14:34,14:39,Bovec
+16.05.2017,169.44,Kevin Kobal,SI,114.69,51.64,AK Edvard Rusjan,L 13 Blanik,12:05,14:38,Bovec
+16.05.2017,105.6,Milan Ota,IT,69.3,36.78,AK Edvard Rusjan,L 13 Blanik,14:42,16:56,Bovec
+30.04.2017,165.71,Žiga Hauptman,SI,113.02,54.24,AK Edvard Rusjan,L 13 Blanik,11:44,14:11,Bovec
+21.04.2017,0.0,Friedrich Nagel,DE,145.76,76.95,SFG Werdenfels,ASH 25M ≥ 26m,10:20,15:06,Bovec
+14.04.2017,420.56,Dirk Schäfer,DE,448.82,108.45,SFG Werdenfels,ASH 25M ≥ 26m,09:41,14:40,Bovec
+12.04.2017,206.57,Dirk Schäfer,DE,218.01,69.7,SFG Werdenfels,ASH 25M ≥ 26m,11:21,15:32,Bovec
+10.04.2017,305.26,Jürgen Schuster,DE,358.42,99.71,SFG Werdenfels,ASH 25M ≥ 26m,08:42,13:56,Bovec
+09.04.2017,348.72,Dirk Schäfer,DE,359.62,73.13,SFG Werdenfels,ASH 25M ≥ 26m,08:49,14:56,Bovec
+08.04.2017,508.57,Dirk Schäfer,DE,588.88,92.5,SFG Werdenfels,ASH 25M ≥ 26m,08:56,16:14,Bovec
+24.09.2016,139.25,Luka Mihelj,SI,123.98,40.04,AK Edvard Rusjan,DG 100,11:39,15:21,Bovec
+04.09.2017,0.0,Marko Klancisar,SI,105.2,45.49,AK Celje,LS 1-d,12:00,14:24,Celje
+26.08.2017,188.4,Robin Sittmann,DE,217.71,64.4,Aero-Club Rhein-Nahe,ASG 29E/18m,11:07,14:40,Celje
+25.08.2017,213.9,Robin Sittmann,DE,245.77,93.08,Aero-Club Rhein-Nahe,ASG 29E/18m,11:16,14:10,Celje
+24.08.2017,59.1,Robin Sittmann,DE,60.43,38.2,Aero-Club Rhein-Nahe,ASG 29E/18m,11:41,14:03,Celje
+23.08.2017,58.07,Robin Sittmann,DE,65.37,46.8,Aero-Club Rhein-Nahe,ASG 29E/18m,12:07,14:03,Celje
+22.08.2017,217.83,Robin Sittmann,DE,224.12,72.37,Aero-Club Rhein-Nahe,ASG 29E/18m,10:35,14:05,Celje
+22.08.2017,0.0,Marko Klancisar,SI,74.09,19.46,AK Celje,LS 1-d,10:48,14:57,Celje
+21.08.2017,199.32,Robin Sittmann,DE,201.58,79.0,Aero-Club Rhein-Nahe,ASG 29E/18m,11:11,14:15,Celje
+20.08.2017,158.15,Robin Sittmann,DE,171.87,73.34,Aero-Club Rhein-Nahe,ASG 29E/18m,11:30,14:47,Celje
+18.08.2017,193.97,Robin Sittmann,DE,191.41,57.81,Aero-Club Rhein-Nahe,ASG 29E/18m,11:58,15:24,Celje
+17.08.2017,122.34,Robin Sittmann,DE,138.08,90.04,Aero-Club Rhein-Nahe,ASG 29E/18m,11:18,14:35,Celje
+15.08.2017,322.27,Anton Sibanc,SI,308.5,77.22,AK Celje,ASG 29E/18m,11:01,15:23,Celje
+14.08.2017,161.71,Bostjan Borstner,SI,113.02,35.15,AK Celje,L 23 Super Blanik,12:45,16:31,Celje
+13.08.2017,218.18,Ranđelović Luka,SI,210.45,62.86,AK Celje,Hornet,12:49,16:35,Celje
+13.08.2017,52.64,Bostjan Borstner,SI,36.58,22.53,AK Celje,L 23 Super Blanik,12:50,14:41,Celje
+31.07.2017,386.91,Sebastjan Ramsak,SI,402.92,83.3,AK Celje,"Ventus cT 17,6m",10:44,15:46,Celje
+23.07.2017,136.67,Tim Lenarčič,SI,118.14,37.85,AK Celje,H 301,10:09,14:14,Celje
+22.07.2017,66.28,Tim Lenarčič,SI,57.61,21.93,AK Celje,H 301,12:47,16:17,Celje
+21.07.2017,0.0,Tim Lenarčič,SI,252.56,47.51,AK Celje,Duo Discus,11:29,17:02,Celje
+19.07.2017,226.53,Sebastjan Jelen,SI,237.61,62.92,AK Murska Sobota,"Ventus cT 17,6m",10:33,15:38,Celje
+19.07.2017,0.0,Tim Lenarčič,SI,44.21,23.16,AK Celje,H 301,10:56,13:16,Celje
+18.07.2017,363.67,Zeljko Roskar,SI,401.27,88.43,AK Celje,"Ventus cT 17,6m",10:17,15:02,Celje
+17.07.2017,374.46,Ales Klinar,SI,349.6,84.61,AK Celje,Discus 2/18m,10:11,14:30,Celje
+17.07.2017,59.6,Tim Lenarčič,SI,51.06,14.41,AK Celje,H 301,10:21,14:27,Celje
+16.07.2017,648.42,Miha Berginc,SI,608.36,81.3,AK Celje,ASG 29E/18m,09:20,17:02,Celje
+16.07.2017,521.24,Sebastjan Ramsak,SI,478.62,83.77,AK Celje,"Ventus cT 17,6m",09:28,15:33,Celje
+06.07.2017,0.0,Tim Lenarčič,SI,119.76,34.31,AK Celje,H 301,12:39,16:46,Celje
+04.07.2017,140.52,Jan Casl,SI,137.23,39.9,AK Celje,DG 300,10:31,16:06,Celje
+04.07.2017,0.0,Tim Lenarčič,SI,84.03,15.42,AK Celje,H 301,11:07,17:16,Celje
+03.07.2017,195.97,Zeljko Roskar,SI,183.55,59.22,AK Celje,"Ventus cT 17,6m",09:56,13:48,Celje
+26.06.2017,542.74,Zeljko Roskar,SI,611.96,91.47,AK Celje,"Ventus cT 17,6m",09:11,16:20,Celje
+19.06.2017,630.56,Sebastjan Ramsak,SI,570.9,88.32,AK Celje,"Ventus cT 17,6m",10:02,16:41,Celje
+19.06.2017,378.68,Uros Krasovic,SI,449.45,84.18,AK Celje,ASG 29E/18m,09:52,15:42,Celje
+19.06.2017,9.93,Matic Knez,SI,8.77,24.29,AK Celje,DG 303,10:54,16:00,Celje
+18.06.2017,526.46,Nik Šalej,SI,522.8,81.6,AK Celje,ASG 29E/18m,09:07,15:59,Celje
+18.06.2017,492.12,Miha Berginc,SI,484.3,82.46,AK Celje,Discus 2/18m,09:38,15:41,Celje
+18.06.2017,395.86,Erazem Polutnik,SI,441.97,93.19,AK Celje,ASG 29E/18m,08:37,13:40,Celje
+18.06.2017,279.28,Tomaz Berginc,SI,329.43,81.77,AK Celje,ASG 29E/18m,10:21,14:28,Celje
+17.06.2017,0.0,Mark Travner,SI,545.96,0.0,AK Celje,%Pione%,11:10,18:17,Celje
+09.06.2017,0.0,Marko Klancisar,SI,22.99,32.38,celje,LS 1-d,11:57,13:03,Celje
+08.06.2017,422.81,Sebastjan Ramsak,SI,463.05,76.1,AK Celje,"Ventus cT 17,6m",09:46,16:09,Celje
+08.06.2017,388.08,Borut Mlakar,SI,416.54,71.64,AK Novo mesto,ASH 31/21m,09:25,15:35,Celje
+08.06.2017,0.0,Marko Klancisar,SI,77.21,15.89,celje,LS 1-d,10:01,15:29,Celje
+04.06.2017,0.0,Marko Klancisar,SI,33.44,16.51,celje,LS 1-d,10:59,13:37,Celje
+28.05.2017,45.23,Tim Lenarčič,SI,38.21,16.03,AK Celje,H 301,11:04,16:11,Celje
+19.05.2017,643.82,Sebastjan Ramsak,SI,607.34,92.43,AK Celje,Discus 2/18m,09:43,16:49,Celje
+19.05.2017,515.96,Erazem Polutnik,SI,544.41,106.02,AK Celje,ASG 29E/18m,10:04,15:27,Celje
+19.05.2017,411.53,Zeljko Roskar,SI,398.57,65.33,AK Celje,DG 300,09:51,16:36,Celje
+19.05.2017,392.32,Mark Travner,SI,386.31,77.43,AK Celje,DG 300,09:58,15:01,Celje
+19.05.2017,0.0,Tomaz Berginc,SI,252.49,93.22,AK Celje,ASG 29E/18m,12:34,15:26,Celje
+17.05.2017,468.55,Anton Sibanc,SI,514.85,86.2,AK Celje,Discus 2/18m,09:16,15:23,Celje
+17.05.2017,437.76,Ranđelović Luka,SI,429.85,64.54,AK Celje,Duo Discus,09:07,16:07,Celje
+17.05.2017,321.3,Mark Polajžar,SI,315.05,81.82,AK Celje,DG 100,10:17,14:18,Celje
+17.05.2017,307.66,Mark Travner,SI,314.75,81.06,AK Celje,DG 300,10:15,14:12,Celje
+17.05.2017,277.08,Vlado Pusovnik,SI,273.98,57.33,AK Celje,Mosquito,08:56,14:19,Celje
+14.05.2017,0.0,Ales Kovac,SI,0.18,0.0,AK Celje,DG 300,09:32,13:24,Celje
+06.05.2017,368.29,Uros Krasovic,SI,410.93,109.08,AK Celje,ASG 29E/18m,10:24,14:17,Celje
+06.05.2017,275.81,Ales Kovac,SI,259.43,87.02,AK Celje,Discus 2/18m,09:57,13:25,Celje
+06.05.2017,224.46,Ranđelović Luka,SI,198.97,57.46,AK Celje,DG 300,11:22,14:57,Celje
+06.05.2017,195.59,Gorazd Pusovnik,SI,161.75,51.99,AK Celje,DG 300,10:10,13:43,Celje
+06.05.2017,0.0,Mark Travner,SI,253.32,59.08,AK Celje,DG 300,09:58,14:20,Celje
+01.05.2017,311.91,Ales Kovac,SI,289.18,69.39,AK Celje,DG 300,09:51,14:10,Celje
+30.04.2017,619.72,Anton Sibanc,SI,556.3,86.57,AK Celje,Discus 2/18m,08:57,15:39,Celje
+30.04.2017,426.98,Gorazd Pusovnik,SI,409.07,77.9,AK Celje,Mosquito,09:35,15:05,Celje
+30.04.2017,281.06,Mark Polajžar,SI,264.74,81.5,AK Celje,DG 300,09:04,12:31,Celje
+30.04.2017,82.58,Dejan Filipič,SI,78.18,47.88,AK Ptuj,DG 100,14:23,16:08,Celje
+30.04.2017,40.51,Roman Orešnik,SI,39.32,82.25,AK Ptuj,Std. Jantar,15:18,16:11,Celje
+30.04.2017,0.0,Ales Kovac,SI,0.17,0.0,AK Celje,DG 300,09:10,13:15,Celje
+21.04.2017,378.03,Mark Polajžar,SI,348.67,62.44,AK Celje,DG 300,09:06,14:47,Celje
+10.04.2017,358.9,Mark Travner,SI,348.72,85.42,AK Celje,DG 300,11:20,15:37,Celje
+10.04.2017,343.64,Ranđelović Luka,SI,344.43,91.99,AK Celje,Duo Discus,11:19,15:10,Celje
+09.04.2017,439.23,Ales Kovac,SI,413.92,88.79,AK Celje,Discus 2/18m,10:19,15:32,Celje
+09.04.2017,368.39,Ranđelović Luka,SI,400.52,87.19,AK Celje,Duo Discus,10:30,15:30,Celje
+09.04.2017,358.67,Mark Polajžar,SI,368.25,85.76,AK Celje,DG 300,10:26,14:57,Celje
+08.04.2017,187.22,Ranđelović Luka,SI,167.8,55.58,AK Celje,Duo Discus,11:12,14:26,Celje
+03.04.2017,352.22,Uros Krasovic,SI,346.79,95.61,AK Celje,ASG 29E/18m,12:47,16:33,Celje
+02.04.2017,379.08,Erazem Polutnik,SI,363.83,101.6,AK Celje,ASG 29E/18m,11:26,15:10,Celje
+02.04.2017,374.04,Mark Travner,SI,339.09,84.69,AK Celje,DG 300,10:46,14:58,Celje
+02.04.2017,295.12,Vlado Pusovnik,SI,312.69,66.4,AK Celje,Mosquito,10:26,15:25,Celje
+02.04.2017,253.24,Mark Polajžar,SI,233.76,57.4,AK Celje,DG 300,10:38,14:55,Celje
+01.04.2017,424.74,Anton Sibanc,SI,451.87,90.58,AK Celje,Discus 2/18m,10:17,15:21,Celje
+01.04.2017,349.48,Gorazd Pusovnik,SI,338.45,68.76,AK Celje,Mosquito,10:09,15:28,Celje
+31.03.2017,177.51,Anton Sibanc,SI,186.82,55.57,AK Celje,Discus 2/18m,10:57,14:58,Celje
+29.03.2017,320.09,Uros Krasovic,SI,333.28,90.95,AK Celje,ASG 29E/18m,11:06,15:03,Celje
+07.12.2016,0.0,Matjaz Tester,SI,0.0,0.0, No Club,Alatus,11:59,11:59,Celje
+07.12.2016,0.0,Matjaz Tester,SI,0.0,0.0, No Club,Alatus,11:58,11:59,Celje
+07.12.2016,0.0,Matjaz Tester,SI,0.0,0.0, No Club,Alatus,11:59,12:00,Celje
+05.10.2016,272.38,Sebastjan Ramsak,SI,264.28,74.86,AK Celje,Discus 2/18m,09:09,13:00,Celje
+12.03.2017,345.59,Borut Mlakar,SI,343.08,66.1,AK Novo mesto,ASH 31/21m,10:22,15:56,Cerklje
+05.09.2017,288.01,Boris Zorz,SI,267.61,62.77,ALC Lesce/Bled,Std. Cirrus,09:06,14:04,Lesce Bled
+05.09.2017,168.89,Matjaz Zupan,SI,171.27,35.62,ALC Lesce/Bled,DG 300 WL,08:54,14:00,Lesce Bled
+31.08.2017,73.59,Milan Korbar,SI,73.29,76.17,ALC Lesce/Bled,DG 500 20m,14:25,15:29,Lesce Bled
+27.08.2017,470.5,Matjaz Zupan,SI,427.71,72.82,ALC Lesce/Bled,DG 100,10:13,16:16,Lesce Bled
+27.08.2017,462.8,Boris Zorz,SI,430.52,69.79,ALC Lesce/Bled,DG 500M 20m,10:12,16:45,Lesce Bled
+24.08.2017,125.5,Anze Vidovic,SI,121.15,27.62,ALC Lesce/Bled,DG 500 20m,10:50,16:13,Lesce Bled
+22.08.2017,295.79,Darko Jordanov,SI,299.82,56.83,ALC Lesce/Bled,LS 8,10:53,16:17,Lesce Bled
+17.08.2017,347.95,Tone Cerin,SI,327.22,49.19,ALC Lesce/Bled,DG 500 20m,08:46,16:35,Lesce Bled
+13.08.2017,302.62,Matjaz Zupan,SI,259.05,55.3,ALC Lesce/Bled,DG 300,11:16,16:15,Lesce Bled
+13.08.2017,261.88,Darko Jordanov,SI,241.64,56.2,ALC Lesce/Bled,LS 8,10:58,15:38,Lesce Bled
+13.08.2017,232.81,Bostjan Fidler,SI,225.11,46.96,LC Maribor,Duo Discus,10:28,15:56,Lesce Bled
+13.08.2017,217.27,Žiga Munda,SI,183.03,38.24,LC Maribor,DG 100,10:38,15:41,Lesce Bled
+13.08.2017,164.47,Luka Hojnik,SI,132.15,54.35,AK Ptuj,DG 100,12:44,15:25,Lesce Bled
+13.08.2017,72.75,Gregor Urbancic,SI,67.52,41.24,AK Ptuj,DG 505 6 Orion,12:35,14:26,Lesce Bled
+13.08.2017,65.11,Gregor Urbancic,SI,61.25,28.1,AK Ptuj,DG 505 6 Orion,09:56,12:23,Lesce Bled
+12.08.2017,197.85,Miha Gosak,SI,197.01,70.58,LC Maribor,Duo Discus,14:07,18:04,Lesce Bled
+12.08.2017,98.45,Luka Hojnik,SI,87.92,41.73,AK Ptuj,DG 100,14:34,17:17,Lesce Bled
+12.08.2017,75.15,Gregor Urbancic,SI,65.28,48.02,AK Ptuj,DG 505 6 Orion,14:33,16:04,Lesce Bled
+12.08.2017,53.73,Milan Korbar,SI,47.03,32.58,ALC Lesce/Bled,DG 500 20m,14:25,15:59,Lesce Bled
+11.08.2017,164.67,Filip Marhl,SI,164.69,46.42,LC Maribor,Duo Discus,14:34,18:21,Lesce Bled
+11.08.2017,130.94,Gregor Urbancic,SI,118.16,58.83,AK Ptuj,DG 505 6 Orion,16:15,18:29,Lesce Bled
+11.08.2017,99.53,Dejan Filipič,SI,91.62,63.04,AK Ptuj,DG 100,14:22,15:58,Lesce Bled
+09.08.2017,195.26,Bostjan Fidler,SI,190.99,74.19,LC Maribor,Duo Discus,14:57,17:44,Lesce Bled
+09.08.2017,164.9,Žiga Munda,SI,148.55,81.13,LC Maribor,DG 100,15:48,18:01,Lesce Bled
+09.08.2017,0.0,Peter Repinc,SI,130.8,71.74,AK Ptuj,DG 100,15:19,17:42,Lesce Bled
+05.08.2017,249.09,Matjaz Zupan,SI,232.0,55.31,ALC Lesce/Bled,DG 100,11:00,15:27,Lesce Bled
+23.07.2017,225.15,Marjan Zvokelj,SI,208.24,60.66,ALC Lesce/Bled,DG 300,11:10,14:49,Lesce Bled
+22.07.2017,558.25,Matjaz Zupan,SI,558.49,78.31,ALC Lesce/Bled,DG 300,09:46,17:02,Lesce Bled
+22.07.2017,504.59,Aleš Janša,SI,506.06,84.97,ALC Lesce/Bled,DG 500 20m,10:38,17:06,Lesce Bled
+22.07.2017,501.67,Andrej Fijavz,SI,540.62,102.76,ALC Lesce/Bled,LS 8/18m,09:36,17:14,Lesce Bled
+22.07.2017,410.34,Rok Perko,SI,403.25,75.93,ALC Lesce/Bled,DG 303,09:54,16:06,Lesce Bled
+22.07.2017,408.11,Milan Korbar,SI,370.25,58.71,ALC Lesce/Bled,DG 100,10:03,16:28,Lesce Bled
+22.07.2017,357.98,Martin Meiwes,DE,338.42,89.45,Kölner Segelflieger,LS 4,11:16,16:03,Lesce Bled
+22.07.2017,234.98,Albin Luin,SI,244.47,68.45,AK Ljubljana,DG 800B/18m,11:15,15:03,Lesce Bled
+22.07.2017,150.25,Matija Kodric,SI,155.36,85.12,AK Edvard Rusjan,DG 800B/18m,15:08,17:09,Lesce Bled
+22.07.2017,0.0,Karl Lippe,DE,228.13,57.98,Kölner Segelflieger,Duo Discus T,11:01,15:42,Lesce Bled
+21.07.2017,238.32,Martin Meiwes,DE,218.62,63.16,Kölner Segelflieger,LS 4,12:59,17:13,Lesce Bled
+21.07.2017,131.66,Karl Lippe,DE,139.84,55.04,Kölner Segelflieger,Duo Discus T,12:33,15:35,Lesce Bled
+20.07.2017,167.02,Martin Meiwes,DE,147.97,44.87,Kölner Segelflieger,LS 4,11:17,14:45,Lesce Bled
+20.07.2017,130.48,Karl Lippe,DE,120.01,59.02,Kölner Segelflieger,Duo Discus T,10:44,13:23,Lesce Bled
+20.07.2017,95.94,Kurt Sistig,DE,90.7,64.58,Kölner Segelflieger,Duo Discus T,13:27,15:16,Lesce Bled
+18.07.2017,0.0,Martin Meiwes,DE,36.56,46.08,Kölner Segelflieger,LS 4,13:08,14:13,Lesce Bled
+17.07.2017,190.11,Martin Meiwes,DE,175.22,40.91,Kölner Segelflieger,LS 4,11:29,16:06,Lesce Bled
+17.07.2017,134.03,Karl Lippe,DE,130.15,44.2,Kölner Segelflieger,Duo Discus,11:47,15:08,Lesce Bled
+16.07.2017,507.73,Darko Jordanov,SI,473.85,78.58,ALC Lesce/Bled,LS 8/18m,09:23,15:28,Lesce Bled
+16.07.2017,436.64,Matjaz Zupan,SI,417.49,63.67,ALC Lesce/Bled,DG 300,09:12,16:06,Lesce Bled
+16.07.2017,337.18,Andrej Kolar,SI,326.39,72.27,ALC Lesce/Bled,DG 500M 20m,10:09,15:00,Lesce Bled
+16.07.2017,293.48,Rok Perko,SI,262.4,57.27,ALC Lesce/Bled,DG 300,09:29,14:18,Lesce Bled
+15.07.2017,149.94,Philipp Rattay,DE,132.33,49.56,Kölner Segelflieger,Duo Discus,12:19,15:14,Lesce Bled
+15.07.2017,149.51,Karl Lippe,DE,137.86,46.82,Kölner Segelflieger,Duo Discus T,13:09,16:29,Lesce Bled
+15.07.2017,116.29,Nils Heck,DE,92.06,18.19,Kölner Segelflieger,ASK 21,11:39,17:15,Lesce Bled
+15.07.2017,113.15,Martin Meiwes,DE,102.06,32.41,Kölner Segelflieger,LS 4,13:32,17:29,Lesce Bled
+12.07.2017,234.48,Martin Meiwes,DE,216.85,52.02,Kölner Segelflieger,LS 4,12:40,17:41,Lesce Bled
+10.07.2017,309.19,Martin Meiwes,DE,294.11,71.1,Kölner Segelflieger,LS 4,11:11,16:29,Lesce Bled
+10.07.2017,284.9,Bostjan Pristavec,SI,343.17,149.62,ALC Lesce/Bled,EB 28,13:50,16:14,Lesce Bled
+10.07.2017,244.34,Karl Lippe,DE,239.31,87.56,Kölner Segelflieger,Duo Discus,12:37,16:01,Lesce Bled
+10.07.2017,143.25,Nils Heck,DE,114.14,43.75,Kölner Segelflieger,ASK 21,09:34,13:52,Lesce Bled
+09.07.2017,110.85,Karl Lippe,DE,105.57,42.93,Kölner Segelflieger,Duo Discus,13:58,16:52,Lesce Bled
+06.07.2017,824.66,Boris Zorz,SI,659.96,86.79,ALC Lesce/Bled,Std. Cirrus,09:20,17:21,Lesce Bled
+06.07.2017,808.88,Bostjan Pristavec,SI,898.99,109.89,ALC Lesce/Bled,EB 28,09:03,17:33,Lesce Bled
+06.07.2017,734.54,Tone Cerin,SI,619.82,80.22,ALC Lesce/Bled,DG 303,09:45,17:44,Lesce Bled
+06.07.2017,658.7,Andrej Kolar,SI,656.99,104.22,ALC Lesce/Bled,LS 8,09:51,16:20,Lesce Bled
+06.07.2017,644.05,Matjaz Zupan,SI,550.44,72.99,ALC Lesce/Bled,DG 300,09:32,17:23,Lesce Bled
+06.07.2017,592.38,Jernej Lokovsek,SI,540.2,89.88,AK Ljubljana,LAK 17/18m,09:56,16:42,Lesce Bled
+05.07.2017,623.89,Sepp Holzapfel,DE,709.21,93.22,SFV Geratshof Landsberg,Arcus M,09:35,17:28,Lesce Bled
+05.07.2017,601.36,Günther Siebinger,DE,707.37,90.92,SFV Geratshof Landsberg,Ventus 2cM/18m,09:34,17:39,Lesce Bled
+05.07.2017,597.0,Jochen Polsz,DE,712.81,88.52,AeC Landau,Antares 20m,09:16,17:39,Lesce Bled
+03.07.2017,367.48,Boris Zorz,SI,348.48,44.54,ALC Lesce/Bled,Std. Cirrus,08:56,17:03,Lesce Bled
+03.07.2017,300.64,Tone Cerin,SI,301.89,50.18,ALC Lesce/Bled,DG 300,09:08,15:34,Lesce Bled
+26.06.2017,437.24,Tone Cerin,SI,394.49,66.48,ALC Lesce/Bled,DG 500 20m,09:59,16:14,Lesce Bled
+26.06.2017,0.0,Mihael Garibaldi,SI,142.1,58.07,ALC Lesce/Bled,DG 300,14:03,16:40,Lesce Bled
+20.06.2017,0.0,Mihael Garibaldi,SI,218.87,66.22,ALC Lesce/Bled,DG 500M 22m,10:46,14:15,Lesce Bled
+19.06.2017,572.93,Bostjan Pristavec,SI,553.65,93.93,ALC Lesce/Bled,EB 28,09:45,16:05,Lesce Bled
+19.06.2017,224.23,Milan Korbar,SI,216.28,52.29,ALC Lesce/Bled,DG 500M 20m,11:54,16:31,Lesce Bled
+18.06.2017,533.46,Tone Cerin,SI,560.38,74.86,ALC Lesce/Bled,LS 8,09:33,17:24,Lesce Bled
+18.06.2017,337.25,Jernej Pristavec,SI,334.41,48.01,ALC Lesce/Bled,DG 300,09:38,17:35,Lesce Bled
+18.06.2017,0.0,Mihael Garibaldi,SI,255.07,63.22,ALC Lesce/Bled,DG 300,11:06,15:16,Lesce Bled
+11.06.2017,465.96,Luka Znidarsic,SI,532.01,90.72,AK Postojna,Ventus 2cxa 18m FES,09:06,15:33,Lesce Bled
+11.06.2017,329.3,Matjaz Zupan,SI,333.44,61.42,ALC Lesce/Bled,DG 300,08:34,15:15,Lesce Bled
+11.06.2017,264.52,Erik Stritih,SI,254.42,93.81,ALC Lesce/Bled,DG 300,09:13,14:53,Lesce Bled
+11.06.2017,0.0,Mihael Garibaldi,SI,155.36,63.69,ALC Lesce/Bled,DG 100,09:29,12:10,Lesce Bled
+01.06.2017,61.24,Michael Hengst,DE,57.58,33.59,FSV Halle-Oppin,DG 300,11:13,13:33,Lesce Bled
+31.05.2017,206.21,Torsten Wilker,DE,198.23,52.75,FSV Halle-Oppin,Discus,11:14,16:31,Lesce Bled
+29.05.2017,53.09,Uwe Nitz,DE,57.3,47.1,FSV Halle-Oppin,LAK 17/18m,10:35,12:02,Lesce Bled
+28.05.2017,517.94,Darko Jordanov,SI,488.32,85.63,ALC Lesce/Bled,LS 8/18m,10:46,16:44,Lesce Bled
+28.05.2017,431.59,Wolfgang Adler,DE,374.01,79.94,Fluggruppe DLR Braunschweig,LS 1 f,10:37,15:28,Lesce Bled
+28.05.2017,375.17,Uwe Nitz,DE,391.47,69.78,FSV Halle-Oppin,LAK 17/18m,10:09,16:44,Lesce Bled
+28.05.2017,322.54,Torsten Wilker,DE,328.13,60.23,FSV Halle-Oppin,Discus,10:49,16:41,Lesce Bled
+28.05.2017,249.66,Michael Hengst,DE,239.42,56.31,FSV Halle-Oppin,DG 300,10:55,15:49,Lesce Bled
+27.05.2017,888.45,Bostjan Pristavec,SI,866.4,95.03,ALC Lesce/Bled,EB 28,08:21,17:52,Lesce Bled
+27.05.2017,638.11,Tone Cerin,SI,539.01,78.2,ALC Lesce/Bled,LS 8,09:09,16:38,Lesce Bled
+27.05.2017,300.55,Matjaz Zupan,SI,309.29,62.79,ALC Lesce/Bled,DG 300,08:54,14:00,Lesce Bled
+27.05.2017,254.89,Fritz Vollmer,DE,297.89,73.94,SFZ Königsdorf,DG 800/18m,09:39,16:27,Lesce Bled
+27.05.2017,0.0,Jernej Pristavec,SI,207.44,52.69,ALC Lesce/Bled,DG 100,09:24,16:15,Lesce Bled
+26.05.2017,999.61,Bostjan Pristavec,SI,989.71,95.5,ALC Lesce/Bled,EB 28,08:02,18:46,Lesce Bled
+26.05.2017,564.89,Karel Cec,SI,579.1,81.52,ALC Lesce/Bled,ASH 25M,08:25,15:53,Lesce Bled
+22.05.2017,431.46,Karel Cec,SI,505.65,101.9,ALC Lesce/Bled,ASH 25M,09:41,14:57,Lesce Bled
+22.05.2017,238.52,Rok Einhauer,SI,244.97,82.41,ALC Lesce/Bled,DG 300,11:25,14:48,Lesce Bled
+21.05.2017,210.27,Stephen Parker,DE,220.62,78.23,LSV Mönchsheide,Stemme S10 / S10-VT,08:25,15:42,Lesce Bled
+19.05.2017,870.22,Boris Zorz,SI,851.5,104.58,ALC Lesce/Bled,Std. Cirrus,08:58,17:32,Lesce Bled
+19.05.2017,801.22,Tone Cerin,SI,852.73,113.58,ALC Lesce/Bled,LS 8,09:09,17:23,Lesce Bled
+19.05.2017,452.24,Stephen Parker,DE,467.92,71.18,LSV Mönchsheide,Stemme S10 / S10-VT,09:08,16:43,Lesce Bled
+19.05.2017,0.0,Rok Perko,SI,122.98,70.46,ALC Lesce/Bled,L 13 Blanik,11:20,13:30,Lesce Bled
+18.05.2017,258.28,Jure Nastran,SI,257.74,67.62,ALC Lesce/Bled,LS 8,11:10,15:20,Lesce Bled
+18.05.2017,241.34,Rok Perko,SI,227.35,65.97,ALC Lesce/Bled,DG 303,12:42,16:17,Lesce Bled
+18.05.2017,225.77,Matija Kodric,SI,223.47,73.89,AK Edvard Rusjan,DG 808B/18m,11:47,15:43,Lesce Bled
+16.05.2017,776.28,Boris Zorz,SI,610.21,74.51,ALC Lesce/Bled,Std. Cirrus,08:34,16:57,Lesce Bled
+16.05.2017,561.6,Tone Cerin,SI,517.3,64.92,ALC Lesce/Bled,DG 303,08:54,17:16,Lesce Bled
+16.05.2017,345.42,Rok Einhauer,SI,338.51,66.7,ALC Lesce/Bled,DG 300,09:03,14:26,Lesce Bled
+16.05.2017,303.16,Matjaz Zupan,SI,313.46,58.38,ALC Lesce/Bled,DG 300,08:44,14:16,Lesce Bled
+16.05.2017,153.81,Matija Kodric,SI,158.28,74.24,AK Edvard Rusjan,DG 808B/18m,10:59,13:12,Lesce Bled
+06.05.2017,560.64,Tone Cerin,SI,577.92,90.02,ALC Lesce/Bled,DG 300,09:23,16:12,Lesce Bled
+06.05.2017,498.37,Matjaz Zupan,SI,499.87,82.71,ALC Lesce/Bled,DG 300,09:21,15:51,Lesce Bled
+06.05.2017,413.6,Andrej Fijavz,SI,443.83,113.75,ALC Lesce/Bled,LS 8/18m,09:32,15:01,Lesce Bled
+06.05.2017,355.07,Andreas Kohrn,DE,340.08,66.8,LSV Gifhorn,Ventus 2cM/18m,09:23,14:52,Lesce Bled
+06.05.2017,291.61,Heinrich Gaus,DE,340.83,63.05,LSV Gifhorn,DG 800/18m,09:24,15:05,Lesce Bled
+06.05.2017,278.48,Frank Martin,DE,333.35,68.72,LSV Gifhorn,ASH 31/21m,09:35,15:04,Lesce Bled
+06.05.2017,267.77,Milan Korbar,SI,246.77,89.06,ALC Lesce/Bled,DG 100,12:36,15:50,Lesce Bled
+06.05.2017,258.15,Simon Eichholz,DE,267.07,109.16,AC Stuttgart,Discus,10:29,13:40,Lesce Bled
+06.05.2017,253.94,Martin Dost,DE,244.86,79.44,SG Wendlingen,Arcus M,09:31,12:58,Lesce Bled
+06.05.2017,179.27,Linda Mally,DE,178.94,63.35,AC Stuttgart,Ventus 2,09:30,12:36,Lesce Bled
+06.05.2017,174.08,Tim Oliver Schmidt,DE,181.61,86.71,AC Stuttgart,Discus 2T/18m,11:10,13:45,Lesce Bled
+06.05.2017,164.05,Pawel Bandurski,PL,174.59,33.1,Aeroklub Warszawski,Nimbus 3D,09:53,16:15,Lesce Bled
+06.05.2017,137.4,Dariusz Zbik,PL,122.07,24.08,Zar,Std. Jantar,08:59,14:21,Lesce Bled
+06.05.2017,68.37,Valentin Zwerger,DE,75.5,87.56,AC Stuttgart,Discus 2T/18m,09:43,10:42,Lesce Bled
+03.05.2017,295.25,Andreas Kohrn,DE,294.79,86.2,LSV Gifhorn,Ventus 2cM/18m,11:52,15:53,Lesce Bled
+03.05.2017,231.32,Heinrich Gaus,DE,265.82,77.63,LSV Gifhorn,DG 800/18m,11:14,15:02,Lesce Bled
+03.05.2017,214.64,Tim Oliver Schmidt,DE,227.5,106.86,AC Stuttgart,Arcus M,13:05,15:26,Lesce Bled
+03.05.2017,160.14,Martin Dost,DE,168.35,81.55,SG Wendlingen,Discus,13:05,15:37,Lesce Bled
+02.05.2017,480.46,Bogdan Dorozko,PL,454.75,84.57,Aeroklub Warminsko-Mazurski,ASG 29E/18m,11:52,17:31,Lesce Bled
+02.05.2017,354.85,Frank Martin,DE,377.7,83.95,LSV Gifhorn,ASH 31/21m,12:19,17:02,Lesce Bled
+01.05.2017,384.56,Tone Cerin,SI,392.9,79.2,ALC Lesce/Bled,DG 300,11:16,16:36,Lesce Bled
+01.05.2017,373.83,Bogdan Dorozko,PL,425.6,74.51,Aeroklub Warminsko-Mazurski,ASG 29E/18m,10:18,16:45,Lesce Bled
+01.05.2017,297.9,Frank Martin,DE,351.74,85.88,LSV Gifhorn,ASH 31/21m,10:20,14:50,Lesce Bled
+01.05.2017,174.4,Valentin Zwerger,DE,178.17,75.35,AC Stuttgart,Arcus M,12:49,15:32,Lesce Bled
+01.05.2017,163.9,Simon Eichholz,DE,183.2,83.44,AC Stuttgart,Arcus M,10:00,12:38,Lesce Bled
+01.05.2017,142.96,Martin Dost,DE,137.3,46.67,SG Wendlingen,Discus 2T/18m,10:27,13:52,Lesce Bled
+01.05.2017,0.0,Pawel Bandurski,PL,154.68,34.09,Aeroklub Warszawski,Nimbus 3D,10:58,16:08,Lesce Bled
+30.04.2017,606.77,Frank Güntert,DE,640.42,79.97,AC Esslingen,ASH 25E ≥ 26m,08:33,17:05,Lesce Bled
+30.04.2017,561.64,Bogdan Dorozko,PL,651.37,95.7,Aeroklub Warminsko-Mazurski,ASG 29E/18m,09:20,16:33,Lesce Bled
+30.04.2017,478.75,Heinrich Gaus,DE,553.82,78.91,LSV Gifhorn,DG 800/18m,10:01,17:17,Lesce Bled
+30.04.2017,432.84,Frank Martin,DE,501.18,77.99,LSV Gifhorn,ASH 31/21m,09:59,16:51,Lesce Bled
+30.04.2017,403.26,Guenther Spaeth,DE,437.58,79.53,AC Esslingen,"Ventus cT 17,6m",08:48,15:28,Lesce Bled
+30.04.2017,374.87,Corinne Baudisch,DE,427.55,87.47,FG Neckartal Köngen,Ventus 2cM/18m,09:16,14:33,Lesce Bled
+30.04.2017,360.86,Andreas Kohrn,DE,406.43,79.26,LSV Gifhorn,Ventus 2cM/18m,10:07,17:05,Lesce Bled
+30.04.2017,319.83,Jure Nastran,SI,314.02,72.55,ALC Lesce/Bled,DG 303,10:40,15:17,Lesce Bled
+30.04.2017,319.63,Matjaz Zupan,SI,302.19,60.93,ALC Lesce/Bled,DG 100,10:37,15:48,Lesce Bled
+30.04.2017,250.36,Andrej Fijavz,SI,253.22,90.89,ALC Lesce/Bled,LS 8,12:52,16:19,Lesce Bled
+30.04.2017,212.87,Harald Baumgart,DE,188.37,49.25,SG Wendlingen,Discus,11:16,15:16,Lesce Bled
+30.04.2017,197.78,Ralf Ebert,DE,208.74,85.32,AC Stuttgart,Discus 2T/18m,12:11,14:57,Lesce Bled
+30.04.2017,196.27,Martin Dost,DE,183.36,53.15,SG Wendlingen,Ventus 2,11:21,15:21,Lesce Bled
+30.04.2017,161.08,Mihael Garibaldi,SI,150.77,77.94,ALC Lesce/Bled,DG 300,11:58,14:09,Lesce Bled
+30.04.2017,91.49,Simon Eichholz,DE,101.25,72.84,AC Stuttgart,Arcus M,11:37,13:13,Lesce Bled
+30.04.2017,84.06,Valentin Zwerger,DE,91.52,68.81,AC Stuttgart,Arcus M,15:15,16:55,Lesce Bled
+30.04.2017,47.7,Linda Mally,DE,49.45,71.09,AC Stuttgart,Arcus M,13:56,14:52,Lesce Bled
+30.04.2017,0.0,Pawel Bandurski,PL,205.59,55.76,Aeroklub Warszawski,Nimbus 3D,10:51,17:54,Lesce Bled
+29.04.2017,655.84,Heiko Nill,DE,744.58,91.52,AC Esslingen,ASH 25E ≥ 26m,08:01,16:58,Lesce Bled
+29.04.2017,560.05,Guenther Spaeth,DE,621.86,85.3,AC Esslingen,"Ventus cT 17,6m",08:25,16:00,Lesce Bled
+29.04.2017,553.83,Eberhard Nill,DE,627.59,83.65,AC Esslingen,DG 808B/18m,08:00,16:06,Lesce Bled
+29.04.2017,390.36,Bogdan Dorozko,PL,445.97,89.27,Aeroklub Warminsko-Mazurski,ASG 29E/18m,11:44,17:12,Lesce Bled
+29.04.2017,110.86,Frank Martin,DE,110.24,73.17,LSV Gifhorn,ASH 31/21m,14:06,16:13,Lesce Bled
+28.04.2017,181.68,Frank Güntert,DE,202.45,109.96,AC Esslingen,ASH 25E ≥ 26m,14:15,16:22,Lesce Bled
+28.04.2017,158.67,Eberhard Nill,DE,170.67,104.35,AC Esslingen,DG 808B/18m,14:36,16:27,Lesce Bled
+28.04.2017,139.01,Guenther Spaeth,DE,142.15,78.97,AC Esslingen,"Ventus cT 17,6m",14:05,16:16,Lesce Bled
+24.04.2017,427.9,Heiko Nill,DE,468.0,86.6,AC Esslingen,ASH 25E ≥ 26m,10:37,16:14,Lesce Bled
+24.04.2017,391.98,Eberhard Nill,DE,437.4,87.89,AC Esslingen,DG 808B/18m,10:55,16:02,Lesce Bled
+24.04.2017,344.54,Wolfgang Lehnert,DE,383.8,85.54,FSC Odenwald Walldürn,Ventus 2cM/18m,11:04,15:49,Lesce Bled
+24.04.2017,326.78,Guenther Spaeth,DE,348.52,78.3,AC Esslingen,"Ventus cT 17,6m",10:53,15:42,Lesce Bled
+24.04.2017,279.68,Dieter Spaeth,DE,285.87,70.78,AC Esslingen,Discus 2T/18m,11:03,15:15,Lesce Bled
+22.04.2017,307.67,Eberhard Nill,DE,350.37,78.58,AC Esslingen,DG 808B/18m,11:18,16:00,Lesce Bled
+22.04.2017,289.51,Frank Güntert,DE,334.42,74.24,AC Esslingen,ASH 25 ≥ 26m,11:14,16:27,Lesce Bled
+22.04.2017,260.72,Guenther Spaeth,DE,269.43,64.05,AC Esslingen,"Ventus cT 17,6m",11:40,16:03,Lesce Bled
+22.04.2017,228.68,Dieter Spaeth,DE,239.77,71.5,AC Esslingen,Discus 2T/18m,11:29,15:41,Lesce Bled
+22.04.2017,178.07,Wolfgang Lehnert,DE,185.65,74.46,FSC Odenwald Walldürn,Ventus 2cM/18m,11:53,16:09,Lesce Bled
+22.04.2017,0.0,Mihael Garibaldi,SI,174.16,74.25,ALC Lesce/Bled,DG 300,12:51,15:33,Lesce Bled
+21.04.2017,532.24,Boris Zorz,SI,507.7,71.47,ALC Lesce/Bled,Std. Cirrus,09:17,16:26,Lesce Bled
+21.04.2017,504.63,Andrej Kolar,SI,506.27,69.52,ALC Lesce/Bled,LS 8/18m,08:40,16:07,Lesce Bled
+21.04.2017,369.73,Tone Cerin,SI,381.59,56.56,ALC Lesce/Bled,DG 300,09:05,16:09,Lesce Bled
+21.04.2017,358.71,Wolfgang Lehnert,DE,406.33,80.85,FSC Odenwald Walldürn,Ventus 2cM/18m,09:24,14:50,Lesce Bled
+21.04.2017,208.07,Guenther Spaeth,DE,219.95,54.52,AC Esslingen,"Ventus cT 17,6m",10:07,14:30,Lesce Bled
+21.04.2017,72.56,Matjaz Zupan,SI,73.33,48.49,ALC Lesce/Bled,DG 300,08:53,10:44,Lesce Bled
+20.04.2017,389.07,Wolfgang Lehnert,DE,423.83,84.32,FSC Odenwald Walldürn,Ventus 2cM/18m,09:39,14:59,Lesce Bled
+16.04.2017,343.36,Alexander Mueller,DE,407.14,114.61,LSG Bayreuth,EB 29,08:17,13:45,Lesce Bled
+14.04.2017,521.53,Patrick Weiss,DE,587.98,108.34,LSC Bad Homburg,Ventus 2cM/18m,10:30,16:12,Lesce Bled
+14.04.2017,516.26,Henrik Lüthge,DE,582.01,105.36,SF Niederberg Heilig,DG 808C/18m,10:32,16:23,Lesce Bled
+14.04.2017,416.44,Steffen Losch,DE,436.66,101.25,LSC Bad Homburg,Discus 2,11:20,15:46,Lesce Bled
+14.04.2017,406.74,Susanne Bisch,DE,423.21,93.84,LSG Rheinstetten,Duo Discus,10:47,15:30,Lesce Bled
+14.04.2017,405.44,Astrid Kittler,DE,448.3,85.53,FSV Mössingen,LS 6/18m,10:37,16:04,Lesce Bled
+14.04.2017,403.98,Corinne Baudisch,DE,466.68,101.9,FG Neckartal Köngen,Ventus 2cM/18m,10:31,15:30,Lesce Bled
+14.04.2017,396.0,Katrin Fobbe,DE,370.6,76.71,SFG Bremen,LS 1 f,10:57,15:57,Lesce Bled
+14.04.2017,395.69,Gudrun Bühler,DE,426.37,88.99,FSV Mössingen,Arcus T,10:37,15:33,Lesce Bled
+14.04.2017,388.6,Beate Rein,DE,433.65,90.79,FG Welzheim,Ventus 2cM/18m,10:37,15:41,Lesce Bled
+14.04.2017,384.6,Lisa Scheller,DE,405.12,73.02,SFG Werdenfels,LS 8/18m,11:01,16:41,Lesce Bled
+14.04.2017,370.28,Daniel Hanner,DE,427.76,104.19,LSC Bad Homburg,ASG 29E/18m,11:21,15:39,Lesce Bled
+14.04.2017,360.41,Léna Kittler,DE,353.03,76.61,FSV Mössingen,LS 4,10:44,15:39,Lesce Bled
+14.04.2017,342.23,Ines Engelhardt,DE,327.47,69.58,FK Brandenburg,LS 1 f,10:18,15:24,Lesce Bled
+14.04.2017,330.45,Maria Schneider,DE,349.4,85.92,FLG Fellbach,LS 6,11:09,15:21,Lesce Bled
+14.04.2017,324.05,Sabine Theis,DE,322.88,65.36,AC Nastätten,LS 4,10:05,15:16,Lesce Bled
+14.04.2017,321.57,Sascha Kopp,DE,327.02,88.12,LSV Schwarzwald,Discus b,11:10,15:04,Lesce Bled
+14.04.2017,316.64,Renate Litzelmann,DE,327.31,73.3,LSV Thermik Alfeld,Janus C RG,10:21,15:09,Lesce Bled
+14.04.2017,312.99,Rebecca Singer,DE,325.96,69.19,FSV Rottenburg/Horb,Duo Discus,10:07,15:32,Lesce Bled
+14.04.2017,236.02,Wolfgang Lehnert,DE,266.37,96.55,FSC Odenwald Walldürn,Ventus 2cM/18m,10:58,15:17,Lesce Bled
+14.04.2017,206.54,Elena Mascus,DE,215.26,61.07,Akaflieg Frankfurt,Duo Discus,09:52,13:42,Lesce Bled
+13.04.2017,453.39,Horst Singer,DE,503.06,93.48,AC Bamberg,EB 29,09:23,15:44,Lesce Bled
+13.04.2017,238.36,Sabine Theis,DE,216.49,50.85,AC Nastätten,LS 4,11:18,16:03,Lesce Bled
+13.04.2017,231.33,Elena Mascus,DE,221.74,54.05,Akaflieg Frankfurt,Duo Discus,11:17,16:04,Lesce Bled
+13.04.2017,227.23,Renate Litzelmann,DE,235.96,57.5,LSV Thermik Alfeld,Janus C RG,10:52,15:45,Lesce Bled
+13.04.2017,221.57,Lisa Scheller,DE,220.12,52.45,SFG Werdenfels,LS 8/18m,10:20,16:06,Lesce Bled
+13.04.2017,207.61,Maria Schneider,DE,206.71,46.9,FLG Fellbach,LS 6,10:19,15:55,Lesce Bled
+13.04.2017,187.43,Rebecca Singer,DE,172.08,45.21,FSV Rottenburg/Horb,Duo Discus,10:30,14:46,Lesce Bled
+13.04.2017,185.71,Carolin Schmitt,DE,160.52,43.75,AC Baden-Baden,LS 4,11:06,15:11,Lesce Bled
+13.04.2017,173.98,Katrin Fobbe,DE,154.44,46.89,SFG Bremen,LS 1 f,11:49,16:03,Lesce Bled
+13.04.2017,171.05,Steffen Losch,DE,176.15,60.9,LSC Bad Homburg,ASG 29E/18m,12:01,15:33,Lesce Bled
+13.04.2017,134.69,Henrik Lüthge,DE,148.77,67.45,SF Niederberg Heilig,DG 808C/18m,11:37,14:15,Lesce Bled
+13.04.2017,97.36,Sascha Kopp,DE,96.85,34.08,LSV Schwarzwald,Discus b,10:32,13:52,Lesce Bled
+13.04.2017,0.0,Ines Engelhardt,DE,200.08,52.13,FK Brandenburg,LS 1 f,11:03,15:47,Lesce Bled
+13.04.2017,0.0,Klaus-peter Merboth,DE,111.54,50.17,FSV Rudolstadt,ASH 26,11:28,15:07,Lesce Bled
+12.04.2017,212.28,Lisa Scheller,DE,210.75,47.5,SFG Werdenfels,LS 8/18m,10:55,15:34,Lesce Bled
+12.04.2017,142.72,Sascha Kopp,DE,146.79,48.36,LSV Schwarzwald,Discus b,10:50,14:24,Lesce Bled
+12.04.2017,138.59,Maria Schneider,DE,148.1,44.18,FLG Fellbach,LS 6,10:40,14:28,Lesce Bled
+12.04.2017,109.87,Patrick Weiss,DE,118.64,54.12,LSC Bad Homburg,Ventus 2cM/18m,11:54,14:17,Lesce Bled
+12.04.2017,104.87,Birgit Weis,AT,98.15,24.8,ISV,LS 1 f,11:48,15:53,Lesce Bled
+12.04.2017,91.03,Steffen Losch,DE,91.83,52.01,LSC Bad Homburg,Discus 2,12:25,14:21,Lesce Bled
+12.04.2017,89.52,Sabine Theis,DE,85.26,33.06,AC Nastätten,LS 4,11:30,14:31,Lesce Bled
+12.04.2017,83.42,Henrik Lüthge,DE,88.33,49.49,SF Niederberg Heilig,DG 800/18m,11:54,14:03,Lesce Bled
+12.04.2017,82.58,Elena Mascus,DE,81.09,45.05,Akaflieg Frankfurt,Janus C FG,12:00,14:07,Lesce Bled
+12.04.2017,78.35,Daniel Hanner,DE,90.57,74.17,LSC Bad Homburg,ASG 29E/18m,12:22,13:51,Lesce Bled
+12.04.2017,74.44,Rebecca Singer,DE,75.35,41.34,FSV Rottenburg/Horb,Duo Discus,11:58,14:01,Lesce Bled
+12.04.2017,60.16,Carolin Schmitt,DE,59.5,49.34,AC Baden-Baden,LS 4,12:09,13:47,Lesce Bled
+12.04.2017,0.0,Ines Engelhardt,DE,65.0,49.79,FK Brandenburg,LS 1 f,12:07,13:40,Lesce Bled
+10.04.2017,55.2,Alexander Mueller,DE,109.6,123.92,LSG Bayreuth,EB 29,07:59,17:38,Lesce Bled
+10.04.2017,708.31,Samuel Gries,DE,713.09,110.44,AC Esslingen,ASG 32 Mi,08:19,15:41,Lesce Bled
+10.04.2017,697.17,Boris Zorz,SI,651.14,87.39,ALC Lesce/Bled,Std. Cirrus,08:31,16:16,Lesce Bled
+10.04.2017,651.32,Horst Singer,DE,720.34,105.69,AC Bamberg,EB 29,08:20,15:28,Lesce Bled
+10.04.2017,579.55,Patrick Weiss,DE,641.42,109.9,LSC Bad Homburg,Ventus 2cM/18m,08:47,15:34,Lesce Bled
+10.04.2017,574.7,Henrik Lüthge,DE,636.12,106.45,SF Niederberg Heilig,DG 808C/18m,08:47,15:36,Lesce Bled
+10.04.2017,512.79,Steffen Losch,DE,584.41,106.57,LSC Bad Homburg,ASG 29E/18m,09:11,15:22,Lesce Bled
+10.04.2017,507.19,Tone Cerin,SI,497.89,75.18,ALC Lesce/Bled,DG 300,08:46,15:49,Lesce Bled
+10.04.2017,485.82,Ines Engelhardt,DE,475.87,86.04,FK Brandenburg,LS 1 f,10:08,15:54,Lesce Bled
+10.04.2017,432.54,Aleš Janša,SI,436.49,100.65,ALC Lesce/Bled,DG 300,09:45,14:18,Lesce Bled
+10.04.2017,402.08,Rok Einhauer,SI,401.91,100.79,ALC Lesce/Bled,DG 300,09:54,14:12,Lesce Bled
+10.04.2017,400.7,Rebecca Singer,DE,431.16,98.2,FSV Rottenburg/Horb,Duo Discus,09:19,14:01,Lesce Bled
+10.04.2017,391.01,Sascha Kopp,DE,399.28,87.31,LSV Schwarzwald,Discus b,11:28,16:16,Lesce Bled
+10.04.2017,380.26,Carolin Schmitt,DE,385.65,98.14,AC Baden-Baden,LS 4,10:17,14:40,Lesce Bled
+10.04.2017,378.19,Maria Schneider,DE,400.56,86.93,FLG Fellbach,LS 6,11:23,16:07,Lesce Bled
+10.04.2017,365.0,Jure Nastran,SI,406.52,89.97,ALC Lesce/Bled,LS 8/18m,08:58,13:52,Lesce Bled
+10.04.2017,354.94,Léna Kittler,DE,341.42,79.63,FSV Mössingen,LS 4,11:13,15:44,Lesce Bled
+10.04.2017,349.06,Lisa Scheller,DE,374.33,78.53,SFG Werdenfels,LS 8/18m,11:13,16:09,Lesce Bled
+10.04.2017,326.91,Stefan Reins,DE,332.36,96.71,LSG Rheinstetten,Duo Discus,11:33,15:44,Lesce Bled
+10.04.2017,320.62,Sabine Theis,DE,310.36,70.97,AC Nastätten,LS 4,10:36,15:29,Lesce Bled
+10.04.2017,316.5,Beate Rein,DE,346.09,102.12,FG Welzheim,Ventus 2cM/18m,11:41,15:42,Lesce Bled
+10.04.2017,298.81,Renate Litzelmann,DE,308.59,80.32,LSV Thermik Alfeld,Duo Discus WL,11:06,15:15,Lesce Bled
+10.04.2017,210.92,Daniel Hanner,DE,219.87,114.91,LSC Bad Homburg,Discus 2,11:53,14:00,Lesce Bled
+10.04.2017,0.0,Klaus-peter Merboth,DE,173.42,77.65,FSV Rudolstadt,ASH 26,10:49,13:49,Lesce Bled
+10.04.2017,0.0,Vital Pretnar,SI,295.09,87.94,ALC Lesce/Bled,Jantar 2,09:53,13:42,Lesce Bled
+10.04.2017,0.0,Birgit Weis,AT,362.42,73.17,ISV,Duo Discus,10:47,15:58,Lesce Bled
+10.04.2017,0.0,Katrin Fobbe,DE,295.22,85.99,SFG Bremen,LS 1 f,11:02,14:35,Lesce Bled
+10.04.2017,0.0,Manuela Eder,AT,321.12,69.18,ISV,LS 1 f,10:36,15:37,Lesce Bled
+10.04.2017,0.0,Elena Mascus,DE,433.0,93.21,Akaflieg Frankfurt,Janus C FG,10:02,14:59,Lesce Bled
+09.04.2017,647.01,Bostjan Pristavec,SI,727.47,97.24,ALC Lesce/Bled,EB 28,09:15,16:59,Lesce Bled
+09.04.2017,551.44,Rok Perko,SI,540.6,72.96,ALC Lesce/Bled,DG 500 20m,09:17,17:02,Lesce Bled
+09.04.2017,526.6,Tone Cerin,SI,476.12,70.98,ALC Lesce/Bled,LS 8,09:25,16:33,Lesce Bled
+09.04.2017,495.13,Horst Singer,DE,513.32,78.16,AC Bamberg,EB 29,09:15,16:28,Lesce Bled
+09.04.2017,374.48,Patrick Weiss,DE,424.51,76.66,LSC Bad Homburg,Ventus 2cM/18m,09:45,15:29,Lesce Bled
+09.04.2017,373.59,Henrik Lüthge,DE,425.2,76.98,SF Niederberg Heilig,DG 808C/18m,09:46,15:33,Lesce Bled
+09.04.2017,353.26,Lisa Scheller,DE,375.45,83.86,SFG Werdenfels,LS 8/18m,12:09,16:43,Lesce Bled
+09.04.2017,309.34,Carolin Schmitt,DE,309.08,77.28,AC Baden-Baden,LS 4,11:33,15:44,Lesce Bled
+09.04.2017,302.28,Albin Luin,SI,341.98,77.3,AK Ljubljana,DG 800B/18m,10:17,14:57,Lesce Bled
+09.04.2017,298.0,Steffen Losch,DE,309.42,90.13,LSC Bad Homburg,Discus 2,12:29,16:00,Lesce Bled
+09.04.2017,287.22,Erik Stritih,SI,280.4,66.04,ALC Lesce/Bled,DG 300,09:33,15:18,Lesce Bled
+09.04.2017,283.42,Astrid Kittler,DE,316.01,74.98,FSV Mössingen,LS 6/18m,11:18,15:51,Lesce Bled
+09.04.2017,261.31,Susanne Bisch,DE,267.11,75.96,LSG Rheinstetten,Duo Discus,11:55,15:33,Lesce Bled
+09.04.2017,252.86,Beate Rein,DE,286.65,75.6,FG Welzheim,Ventus 2cM/18m,11:35,15:51,Lesce Bled
+09.04.2017,222.92,Rok Einhauer,SI,193.89,62.42,ALC Lesce/Bled,DG 303,13:27,16:44,Lesce Bled
+09.04.2017,214.77,Maria Schneider,DE,230.57,80.49,FLG Fellbach,LS 6,13:36,16:35,Lesce Bled
+09.04.2017,147.38,Daniel Hanner,DE,158.62,56.72,LSC Bad Homburg,ASG 29E/18m,12:22,15:44,Lesce Bled
+09.04.2017,69.41,Katrin Fobbe,DE,63.44,42.99,SFG Bremen,LS 1 f,14:32,16:10,Lesce Bled
+09.04.2017,56.48,Sabine Theis,DE,56.67,61.95,AC Nastätten,LS 4,12:36,15:16,Lesce Bled
+09.04.2017,49.78,Sabine Theis,DE,50.42,64.34,AC Nastätten,Janus C FG,11:08,12:30,Lesce Bled
+09.04.2017,0.0,Moritz Gnisia,DE,309.42,90.13,LSC Bad Homburg,Discus 2b,12:29,16:00,Lesce Bled
+09.04.2017,0.0,Birgit Weis,AT,156.19,53.98,ISV,LS 1 f,13:47,16:50,Lesce Bled
+08.04.2017,782.6,Hans Jürgen Schmacht,DE,809.47,101.71,AC Bamberg,ASG 32 Mi,07:54,16:27,Lesce Bled
+08.04.2017,663.06,Horst Singer,DE,761.51,105.63,AC Bamberg,EB 29,07:54,16:26,Lesce Bled
+08.04.2017,554.55,Matjaz Zupan,SI,489.56,76.87,ALC Lesce/Bled,DG 300,09:44,16:28,Lesce Bled
+08.04.2017,334.64,Jernej Lokovsek,SI,347.54,75.5,AK Ljubljana,Discus,11:48,16:45,Lesce Bled
+08.04.2017,231.45,Matija Kodric,SI,238.41,58.39,AK Edvard Rusjan,DG 808B/18m,10:57,15:25,Lesce Bled
+06.04.2017,753.39,Alexander Mueller,DE,921.17,95.48,LSG Bayreuth,EB 29,07:20,17:30,Lesce Bled
+06.04.2017,676.36,Horst Singer,DE,805.2,86.63,AC Bamberg,EB 29,07:20,16:52,Lesce Bled
+06.04.2017,565.74,Hans Jürgen Schmacht,DE,604.94,94.74,AC Bamberg,ASG 32 Mi,07:01,15:14,Lesce Bled
+06.04.2017,513.39,Ben Podgorsek,SI,509.58,72.76,ALC Lesce/Bled,DG 500 20m,09:03,16:12,Lesce Bled
+03.04.2017,869.29,Alexander Mueller,DE,975.72,110.47,LSG Bayreuth,EB 29,06:59,17:23,Lesce Bled
+03.04.2017,802.5,Hans Jürgen Schmacht,DE,825.25,103.29,AC Bamberg,ASG 32 Mi,07:35,16:05,Lesce Bled
+03.04.2017,733.82,Horst Singer,DE,825.06,105.01,AC Bamberg,EB 29,07:38,15:52,Lesce Bled
+02.04.2017,360.72,Luka Znidarsic,SI,405.56,103.9,AK Postojna,Ventus 2cxa 18m FES,10:29,14:53,Lesce Bled
+01.04.2017,778.79,Bostjan Pristavec,SI,920.86,117.79,ALC Lesce/Bled,EB 28,08:53,17:03,Lesce Bled
+01.04.2017,755.85,Tone Cerin,SI,745.91,99.51,ALC Lesce/Bled,DG 100,09:34,17:23,Lesce Bled
+01.04.2017,751.5,Hans Jürgen Schmacht,DE,742.74,102.73,AC Bamberg,ASG 32 Mi,08:42,16:41,Lesce Bled
+01.04.2017,733.97,Boris Zorz,SI,716.39,114.33,ALC Lesce/Bled,Std. Cirrus,09:48,16:23,Lesce Bled
+01.04.2017,689.68,Horst Singer,DE,749.13,104.03,AC Bamberg,EB 29,08:49,16:16,Lesce Bled
+01.04.2017,617.28,Matjaz Zupan,SI,632.93,91.55,ALC Lesce/Bled,DG 300,09:36,16:42,Lesce Bled
+01.04.2017,433.42,Jernej Lokovsek,SI,440.91,98.52,AK Ljubljana,Discus,09:59,14:43,Lesce Bled
+01.04.2017,430.1,Erik Stritih,SI,470.62,92.41,ALC Lesce/Bled,LS 8/18m,09:46,15:17,Lesce Bled
+01.04.2017,341.85,Milan Korbar,SI,326.46,91.33,ALC Lesce/Bled,DG 500 20m,12:13,16:18,Lesce Bled
+31.03.2017,622.08,Bostjan Pristavec,SI,676.89,90.03,ALC Lesce/Bled,EB 28,09:17,17:11,Lesce Bled
+31.03.2017,444.32,Tone Cerin,SI,456.27,94.38,ALC Lesce/Bled,DG 500 20m,11:17,16:26,Lesce Bled
+29.03.2017,847.38,Alexander Mueller,DE,875.17,107.66,LSG Bayreuth,EB 29,08:09,17:15,Lesce Bled
+29.03.2017,703.21,Boris Zorz,SI,571.03,85.71,ALC Lesce/Bled,DG 500 20m,08:45,15:59,Lesce Bled
+21.03.2017,473.63,Alexander Mueller,DE,471.12,74.13,LSG Bayreuth,EB 29,10:25,16:57,Lesce Bled
+21.03.2017,423.51,Horst Singer,DE,424.79,67.94,AC Bamberg,EB 29,10:31,16:56,Lesce Bled
+08.03.2017,288.66,Matjaz Zupan,SI,283.55,52.85,ALC Lesce/Bled,DG 500 20m,10:31,16:08,Lesce Bled
+28.12.2016,664.18,Boris Zorz,SI,629.64,88.74,ALC Lesce/Bled,Std. Cirrus,08:08,15:25,Lesce Bled
+28.12.2016,53.47,Tone Cerin,SI,53.62,37.49,ALC Lesce/Bled,DG 500 20m,07:48,09:32,Lesce Bled
+28.12.2016,18.69,Boris Zorz,SI,16.61,56.68,ALC Lesce/Bled,Std. Cirrus,07:45,08:05,Lesce Bled
+30.09.2016,193.62,Tone Cerin,SI,203.33,58.32,ALC Lesce/Bled,LS 8,10:10,14:02,Lesce Bled
+25.09.2016,43.17,Milan Korbar,SI,43.23,24.32,ALC Lesce/Bled,DG 303,12:45,14:56,Lesce Bled
+24.09.2016,238.34,Matjaz Zupan,SI,218.76,55.27,ALC Lesce/Bled,LS 8,10:53,15:04,Lesce Bled
+22.09.2016,70.31,Matija Kodric,SI,71.91,35.92,AK Edvard Rusjan,DG 808B/18m,12:05,14:33,Lesce Bled
+22.09.2016,58.81,Albin Luin,SI,58.73,45.95,AK Ljubljana,DG 808B/18m,14:41,16:19,Lesce Bled
+03.09.2017,126.94,Marko Munda,SI,106.11,24.72,LC Maribor,Twin Astir RG,11:29,16:07,Maribor
+20.08.2017,120.11,Iztok Kodric,SI,108.55,32.26,LC Maribor,Std. Cirrus,09:44,13:57,Maribor
+20.08.2017,108.72,Van Decko,SI,102.46,24.97,LC Maribor,DG 100,09:57,14:07,Maribor
+20.08.2017,70.61,Anton Krajnc,SI,67.76,33.75,LC Maribor,Duo Discus,10:13,12:34,Maribor
+16.08.2017,121.91,Miha Gosak,SI,100.88,27.0,LC Maribor,Std. Jantar,09:57,14:09,Maribor
+16.07.2017,288.16,Primoz Raner,SI,250.78,59.22,LC Maribor,DG 100,09:33,14:06,Maribor
+16.07.2017,276.58,Robi Slaus,SI,237.32,55.68,LC Maribor,DG 100,10:52,16:46,Maribor
+13.07.2017,187.0,Robert Hribersek,SI,139.45,53.76,LC Maribor,G 103 Twin II,10:48,14:00,Maribor
+01.07.2017,196.49,Marko Munda,SI,183.11,47.23,LC Maribor,Duo Discus,13:10,17:13,Maribor
+18.06.2017,172.83,Tadej Patty,SI,162.6,42.39,LC Maribor,DG 100,09:52,14:57,Maribor
+18.06.2017,0.0,Anton Krajnc,SI,183.36,33.36,LC Maribor,DG 300,09:42,15:27,Maribor
+17.06.2017,195.15,Robi Slaus,SI,195.85,62.34,LC Maribor,Duo Discus,14:33,18:09,Maribor
+11.06.2017,368.42,Robi Slaus,SI,376.63,62.71,LC Maribor,Duo Discus,09:01,15:17,Maribor
+11.06.2017,320.43,Ales Rudl,SI,311.02,60.5,LC Maribor,DG 300,08:48,14:04,Maribor
+11.06.2017,273.57,Žiga Munda,SI,237.74,52.15,LC Maribor,DG 100,09:52,14:37,Maribor
+11.06.2017,264.24,Iztok Kodric,SI,232.73,45.45,LC Maribor,Std. Cirrus,09:12,14:27,Maribor
+11.06.2017,60.1,Marko Munda,SI,59.48,10.47,LC Maribor,DG 100,09:53,15:35,Maribor
+27.05.2017,228.92,Miha Gosak,SI,191.79,32.21,LC Maribor,G 103 Twin II,08:34,15:02,Maribor
+27.05.2017,93.14,Van Decko,SI,75.38,39.02,LC Maribor,VUK-T,08:49,10:55,Maribor
+21.05.2017,54.7,Van Decko,SI,48.94,6.34,LC Maribor,VUK-T,09:15,17:02,Maribor
+21.05.2017,21.47,Van Decko,SI,19.33,53.74,LC Maribor,VUK-T,17:07,17:36,Maribor
+19.05.2017,82.39,Robi Slaus,SI,72.94,67.96,LC Maribor,Duo Discus,11:55,13:14,Maribor
+18.05.2017,154.49,Robi Slaus,SI,162.45,64.27,LC Maribor,Duo Discus,10:52,13:35,Maribor
+17.05.2017,573.0,Primoz Raner,SI,444.04,55.98,LC Maribor,Std. Cirrus,08:50,17:03,Maribor
+17.05.2017,535.06,Martin Groselj,SI,418.24,68.24,LC Maribor,DG 100,08:43,15:11,Maribor
+17.05.2017,534.97,Robi Slaus,SI,464.71,60.18,LC Maribor,Duo Discus,08:34,16:30,Maribor
+17.05.2017,217.92,Anton Krajnc,SI,183.44,56.89,LC Maribor,G 103 Twin II,13:32,16:56,Maribor
+16.05.2017,335.6,Iztok Kodric,SI,313.36,54.4,LC Maribor,Std. Cirrus,09:20,15:12,Maribor
+16.05.2017,259.68,Primoz Raner,SI,246.68,56.47,LC Maribor,DG 100,09:11,13:39,Maribor
+30.04.2017,398.7,Žiga Munda,SI,363.16,53.09,LC Maribor,DG 100,09:08,16:16,Maribor
+30.04.2017,333.3,Anton Krajnc,SI,310.89,60.11,LC Maribor,DG 300,09:14,14:51,Maribor
+30.04.2017,319.74,Ales Rudl,SI,319.72,69.63,LC Maribor,Duo Discus,08:50,13:34,Maribor
+30.04.2017,128.74,Van Decko,SI,99.83,19.57,LC Maribor,G 103 Twin II,09:37,15:11,Maribor
+30.04.2017,120.71,Filip Marhl,SI,102.37,17.87,LC Maribor,DG 100,09:32,15:29,Maribor
+29.04.2017,161.43,Žiga Munda,SI,135.39,46.19,LC Maribor,DG 100,12:23,15:34,Maribor
+21.04.2017,347.86,Robi Slaus,SI,338.08,62.41,LC Maribor,DG 100,09:00,14:37,Maribor
+21.04.2017,334.78,Robert Hribersek,SI,300.86,54.68,LC Maribor,Std. Cirrus,08:49,14:26,Maribor
+21.04.2017,239.11,Martin Groselj,SI,222.56,57.12,LC Maribor,DG 100,10:08,14:24,Maribor
+21.04.2017,221.46,Iztok Kodric,SI,219.52,48.06,LC Maribor,DG 300,09:36,14:39,Maribor
+10.04.2017,408.82,Robi Slaus,SI,398.41,80.54,LC Maribor,DG 100,10:21,15:30,Maribor
+09.04.2017,129.87,Simona Potočnik,SI,100.44,38.13,LC Maribor,G 103 Twin II,12:08,15:01,Maribor
+09.04.2017,101.87,Tadej Patty,SI,85.84,29.88,LC Maribor,Std. Jantar,11:28,14:42,Maribor
+09.04.2017,95.0,Boris Patty,SI,78.89,20.99,LC Maribor,DG 100,11:38,16:27,Maribor
+02.04.2017,385.49,Robi Slaus,SI,330.59,76.42,LC Maribor,DG 100,11:35,16:08,Maribor
+02.04.2017,369.23,Martin Groselj,SI,303.38,67.55,LC Maribor,Std. Cirrus,11:45,16:29,Maribor
+02.04.2017,328.91,Iztok Kodric,SI,300.83,77.37,LC Maribor,Duo Discus,12:19,16:19,Maribor
+02.04.2017,268.9,Anton Krajnc,SI,243.77,55.3,LC Maribor,DG 303,11:58,16:32,Maribor
+02.04.2017,182.22,Miha Gosak,SI,155.6,53.01,LC Maribor,Std. Jantar,12:16,15:39,Maribor
+11.03.2017,133.2,Robi Slaus,SI,124.03,61.27,LC Maribor,Duo Discus,13:30,15:40,Maribor
+10.03.2017,628.17,Robert Hribersek,SI,610.74,87.28,LC Maribor,Std. Cirrus,08:16,15:25,Maribor
+10.03.2017,222.72,Iztok Kodric,SI,211.86,49.3,LC Maribor,Std. Cirrus,08:28,13:03,Maribor
+10.03.2017,208.75,Miha Gosak,SI,204.94,38.46,LC Maribor,Std. Jantar,09:22,14:52,Maribor
+06.01.2017,457.39,Bostjan Fidler,SI,442.88,95.95,LC Maribor,DG 100,09:07,13:57,Maribor
+06.01.2017,447.02,Žiga Munda,SI,432.94,90.03,LC Maribor,DG 100,08:52,13:53,Maribor
+27.12.2016,0.0,Van Decko,SI,59.17,21.03,LC Maribor,G 103 Twin II,11:57,15:06,Maribor
+24.09.2016,46.71,Robi Slaus,SI,41.67,31.65,LC Maribor,Std. Jantar,11:25,13:09,Maribor
+05.09.2017,205.67,Damijan Korpič,SI,190.15,73.32,AK Murska Sobota,Discus 2/18m,11:48,14:31,Murska Sobota
+16.07.2017,344.58,Robert Prelec,SI,343.86,57.63,AK Murska Sobota,Discus 2/18m,09:52,16:25,Murska Sobota
+01.07.2017,357.16,Damijan Korpič,SI,297.53,77.24,AK Murska Sobota,DG 100,10:12,14:10,Murska Sobota
+01.07.2017,324.57,Robert Prelec,SI,318.6,60.58,AK Murska Sobota,Discus 2/18m,11:32,17:23,Murska Sobota
+17.06.2017,224.08,Damijan Korpič,SI,244.68,68.88,AK Murska Sobota,Discus 2/18m,11:36,15:31,Murska Sobota
+08.06.2017,221.95,Damijan Korpič,SI,249.01,76.57,AK Murska Sobota,Discus 2/18m,11:13,14:38,Murska Sobota
+20.05.2017,152.62,Robert Prelec,SI,163.99,48.62,AK Murska Sobota,Discus 2/18m,10:52,14:20,Murska Sobota
+18.05.2017,185.26,Robert Prelec,SI,181.43,45.14,AK Murska Sobota,Discus 2/18m,10:33,15:07,Murska Sobota
+17.05.2017,441.13,Damijan Korpič,SI,489.73,75.77,AK Murska Sobota,Discus 2/18m,09:02,15:39,Murska Sobota
+14.05.2017,209.81,Robert Prelec,SI,210.95,64.6,AK Murska Sobota,Discus 2/18m,10:39,14:02,Murska Sobota
+14.05.2017,101.54,Simon Kuzma,SI,89.93,42.53,AK Murska Sobota,DG 100,10:47,13:40,Murska Sobota
+06.05.2017,78.65,Simon Kuzma,SI,68.06,31.43,AK Murska Sobota,DG 100,12:27,14:51,Murska Sobota
+02.05.2017,409.31,Damijan Korpič,SI,349.6,75.4,AK Murska Sobota,DG 100,09:44,15:40,Murska Sobota
+02.05.2017,374.05,Kristian Ravnic,SI,322.9,70.8,AK Murska Sobota,DG 100,09:28,15:51,Murska Sobota
+02.05.2017,194.81,Robert Prelec,SI,206.88,59.58,AK Murska Sobota,Discus 2/18m,13:09,17:09,Murska Sobota
+30.04.2017,217.42,Kristian Ravnic,SI,181.79,47.0,AK Murska Sobota,DG 100,09:55,15:07,Murska Sobota
+21.04.2017,163.02,Damijan Korpič,SI,175.26,68.37,AK Murska Sobota,Discus 2/18m,11:50,14:38,Murska Sobota
+10.04.2017,220.55,Damijan Korpič,SI,199.75,49.6,AK Murska Sobota,DG 100,11:00,15:09,Murska Sobota
+09.04.2017,229.57,Robert Prelec,SI,227.93,57.27,AK Murska Sobota,Discus 2/18m,11:48,16:14,Murska Sobota
+02.04.2017,425.43,Damijan Korpič,SI,408.52,93.85,AK Murska Sobota,Discus 2/18m,11:58,16:34,Murska Sobota
+12.03.2017,41.34,Damijan Korpič,SI,29.79,47.04,AK Murska Sobota,Pilatus B4 FG,10:32,11:28,Murska Sobota
+25.09.2016,139.0,Robert Prelec,SI,127.81,40.48,AK Murska Sobota,Discus 2/18m,11:42,15:32,Murska Sobota
+24.09.2016,213.49,Damijan Korpič,SI,212.94,85.21,AK Murska Sobota,Discus 2/18m,12:10,14:53,Murska Sobota
+23.09.2017,81.76,Andrej Spudič,SI,75.44,34.19,AK Novo mesto,DG 100,12:04,14:39,Novo mesto
+05.09.2017,87.72,Stjepan Količ,SI,74.94,36.64,AK Novo mesto,DG 300,13:56,16:00,Novo mesto
+05.09.2017,26.67,Darko Pavlovič,SI,26.4,25.6,AK Novo mesto,DG 300,10:47,11:55,Novo mesto
+21.08.2017,434.84,Borut Mlakar,SI,484.57,79.72,AK Novo mesto,ASH 31/21m,09:07,15:37,Novo mesto
+21.08.2017,171.0,Matic Franko,SI,133.19,31.39,AK Novo mesto,Twin Astir RG,11:47,16:11,Novo mesto
+21.08.2017,136.39,Darko Pavlovič,SI,129.09,30.08,AK Novo mesto,DG 300,11:34,16:15,Novo mesto
+21.08.2017,123.2,Peter Marinčič,SI,121.27,44.24,AK Novo mesto,DG 300,13:00,16:05,Novo mesto
+21.08.2017,109.7,Stjepan Količ,SI,94.84,62.76,AK Novo mesto,DG 300,11:17,12:54,Novo mesto
+14.08.2017,167.35,Edin Čaušević,SI,161.85,39.36,AK Novo mesto,DG 300,11:06,15:26,Novo mesto
+31.07.2017,118.78,Mateja Tkalčič,SI,101.7,41.31,AK Novo mesto,Twin Astir RG,11:39,14:22,Novo mesto
+28.07.2017,232.07,Stjepan Količ,SI,198.78,49.2,AK Novo mesto,Twin Astir RG,11:56,16:32,Novo mesto
+28.07.2017,177.6,Peter Marinčič,SI,149.66,49.83,AK Novo mesto,DG 300,13:03,16:16,Novo mesto
+28.07.2017,163.73,Darko Pavlovič,SI,140.44,50.82,AK Novo mesto,DG 300,12:27,15:31,Novo mesto
+27.07.2017,88.48,Stjepan Količ,SI,77.99,35.37,AK Novo mesto,Twin Astir RG,13:32,16:03,Novo mesto
+25.07.2017,231.62,Peter Marinčič,SI,196.54,68.85,AK Novo mesto,DG 300,13:26,16:31,Novo mesto
+25.07.2017,115.58,Štefan Može,SI,102.84,52.81,AK Novo mesto,Twin Astir RG,14:12,16:29,Novo mesto
+22.07.2017,316.88,Vito Strasberger,SI,270.18,51.52,AK Novo mesto,DG 100,10:40,16:08,Novo mesto
+22.07.2017,292.73,Peter Marinčič,SI,242.71,49.31,AK Novo mesto,DG 300,10:48,15:48,Novo mesto
+19.07.2017,221.85,Andrej Spudič,SI,188.69,55.3,AK Novo mesto,DG 300,13:28,17:00,Novo mesto
+19.07.2017,208.3,Peter Marinčič,SI,175.25,62.34,AK Novo mesto,DG 100,13:17,16:20,Novo mesto
+19.07.2017,159.2,Stjepan Količ,SI,113.16,65.63,AK Novo mesto,L 23 Super Blanik,14:31,16:17,Novo mesto
+17.07.2017,339.44,Alojz Novak,SI,278.1,57.82,AK Novo mesto,Std. Cirrus,10:04,15:01,Novo mesto
+17.07.2017,277.72,Vito Strasberger,SI,259.55,59.36,AK Novo mesto,DG 100,10:19,14:53,Novo mesto
+16.07.2017,474.76,Borut Mlakar,SI,500.45,70.67,AK Novo mesto,ASH 31/21m,07:54,16:11,Novo mesto
+05.07.2017,224.24,Darko Pavlovič,SI,191.13,52.73,AK Novo mesto,DG 300,11:24,15:49,Novo mesto
+05.07.2017,212.68,Stjepan Količ,SI,184.75,44.13,AK Novo mesto,DG 300,11:17,16:31,Novo mesto
+04.07.2017,307.69,Andrej Spudič,SI,273.33,57.52,AK Novo mesto,DG 300,11:17,16:36,Novo mesto
+04.07.2017,174.42,Luka Zaletelj,SI,140.45,69.97,AK Novo mesto,DG 100,12:39,15:02,Novo mesto
+04.07.2017,158.61,Štefan Može,SI,115.29,25.64,AK Novo mesto,L 33 Blanik Solo,11:12,16:13,Novo mesto
+04.07.2017,149.57,Tim Rozman,SI,111.88,39.11,AK Novo mesto,Twin Astir Trainer FG,13:37,16:35,Novo mesto
+03.07.2017,189.32,Darko Pavlovič,SI,164.82,59.33,AK Novo mesto,DG 300,11:36,15:10,Novo mesto
+01.07.2017,683.94,Borut Mlakar,SI,715.0,76.96,AK Novo mesto,ASH 31/21m,07:52,17:42,Novo mesto
+01.07.2017,207.67,Darko Pavlovič,SI,192.24,49.05,AK Novo mesto,DG 300,10:18,14:41,Novo mesto
+01.07.2017,188.62,Andrej Spudič,SI,168.07,47.77,AK Novo mesto,DG 300,10:33,14:19,Novo mesto
+01.07.2017,162.19,Mateja Tkalčič,SI,121.91,56.42,AK Novo mesto,Twin Astir RG,13:51,16:16,Novo mesto
+26.06.2017,452.33,Borut Mlakar,SI,432.29,67.43,AK Novo mesto,ASH 31/21m,09:27,16:10,Novo mesto
+26.06.2017,231.06,Andrej Spudič,SI,197.68,49.86,AK Novo mesto,DG 300,10:48,14:56,Novo mesto
+26.06.2017,124.96,Darko Pavlovič,SI,108.02,30.39,AK Novo mesto,DG 300,10:37,15:02,Novo mesto
+20.06.2017,191.4,Žan Dragan,SI,172.84,80.69,AK Novo mesto,Twin Astir RG,13:19,15:44,Novo mesto
+20.06.2017,131.93,Štefan Može,SI,95.78,24.56,AK Novo mesto,L 33 Blanik Solo,13:35,17:35,Novo mesto
+19.06.2017,537.91,Borut Mlakar,SI,524.83,64.7,AK Novo mesto,ASH 31/21m,08:06,16:30,Novo mesto
+19.06.2017,445.32,Vito Strasberger,SI,348.85,58.83,AK Novo mesto,DG 100,10:06,16:11,Novo mesto
+19.06.2017,243.95,Darko Pavlovič,SI,214.73,60.83,AK Novo mesto,DG 300,10:40,14:17,Novo mesto
+19.06.2017,149.19,Andrej Spudič,SI,126.41,64.6,AK Novo mesto,Twin Astir RG,13:55,16:11,Novo mesto
+18.06.2017,348.41,Andrej Spudič,SI,297.88,63.3,AK Novo mesto,DG 300,10:32,16:01,Novo mesto
+18.06.2017,141.07,Darko Pavlovič,SI,120.68,26.58,AK Novo mesto,DG 100,10:40,16:17,Novo mesto
+15.06.2017,191.12,Luka Zaletelj,SI,162.3,57.68,AK Novo mesto,DG 100,11:06,14:10,Novo mesto
+15.06.2017,184.7,Andrej Spudič,SI,153.31,46.14,AK Novo mesto,Twin Astir RG,11:51,15:17,Novo mesto
+15.06.2017,37.2,Darko Pavlovič,SI,36.44,53.26,AK Novo mesto,DG 300,11:16,14:10,Novo mesto
+11.06.2017,475.61,Borut Mlakar,SI,468.98,60.8,AK Novo mesto,ASH 31/21m,07:52,16:03,Novo mesto
+11.06.2017,337.92,Luka Zaletelj,SI,273.19,72.62,AK Novo mesto,DG 100,09:52,14:15,Novo mesto
+11.06.2017,154.42,Matjaž Grčman,SI,133.06,41.36,AK Novo mesto,Twin Astir RG,10:41,14:06,Novo mesto
+11.06.2017,69.59,Darko Pavlovič,SI,68.85,65.43,AK Novo mesto,DG 300,10:32,14:54,Novo mesto
+27.05.2017,410.67,Borut Mlakar,SI,491.91,75.83,AK Novo mesto,ASH 31/21m,08:15,15:57,Novo mesto
+27.05.2017,295.1,Lojz Novak,SI,246.84,73.35,DLC,Std. Cirrus,11:20,15:11,Novo mesto
+27.05.2017,207.93,Luka Zaletelj,SI,197.52,51.76,AK Novo mesto,DG 100,09:53,14:27,Novo mesto
+27.05.2017,189.8,Peter Marinčič,SI,163.06,46.63,AK Novo mesto,DG 300,11:04,14:56,Novo mesto
+27.05.2017,90.84,Kristjan Nučič,SI,59.58,13.77,AK Novo mesto,L 23 Super Blanik,10:26,15:30,Novo mesto
+26.05.2017,314.77,Borut Mlakar,SI,374.94,61.02,AK Novo mesto,ASH 31/21m,07:57,15:35,Novo mesto
+18.05.2017,391.52,Borut Mlakar,SI,377.58,66.5,AK Novo mesto,ASH 31/21m,08:26,14:57,Novo mesto
+06.05.2017,228.86,Borut Mlakar,SI,227.84,71.39,AK Novo mesto,ASH 31/21m,08:48,12:37,Novo mesto
+06.05.2017,139.61,Luka Zaletelj,SI,121.54,51.45,AK Novo mesto,DG 100,10:25,13:07,Novo mesto
+02.05.2017,217.66,Bostjan Stih,SI,196.52,63.78, No Club,Twin Astir RG,11:57,15:05,Novo mesto
+02.05.2017,116.91,David Kuhelj,SI,112.57,50.27,AK Novo mesto,DG 100,12:08,14:39,Novo mesto
+01.05.2017,114.18,Darko Pavlovič,SI,99.27,37.83,AK Novo mesto,DG 300,10:32,13:45,Novo mesto
+01.05.2017,101.13,Stjepan Količ,SI,85.59,44.67,AK Novo mesto,G 103 Twin II,11:49,13:51,Novo mesto
+30.04.2017,506.19,Borut Mlakar,SI,527.39,72.97,AK Novo mesto,ASH 31/21m,09:03,16:40,Novo mesto
+30.04.2017,135.55,Franc Stariha,SI,115.18,52.7,AK Novo mesto,DG 100,10:46,13:13,Novo mesto
+22.04.2017,307.86,Borut Mlakar,SI,310.51,79.37,AK Novo mesto,ASH 31/21m,10:37,14:53,Novo mesto
+22.04.2017,216.31,Peter Marinčič,SI,206.65,57.95,AK Novo mesto,DG 300,11:15,15:00,Novo mesto
+22.04.2017,166.4,Andrej Spudič,SI,136.04,76.97,AK Novo mesto,DG 300,11:03,12:56,Novo mesto
+14.04.2017,127.45,Borut Mlakar,SI,113.31,61.23,AK Novo mesto,DG 300,13:28,15:31,Novo mesto
+13.04.2017,306.0,Andrej Spudič,SI,272.01,68.82,AK Novo mesto,DG 300,11:31,15:32,Novo mesto
+10.04.2017,260.35,Luka Zaletelj,SI,233.46,72.63,AK Novo mesto,DG 100,11:14,14:49,Novo mesto
+10.04.2017,192.51,Stjepan Količ,SI,184.91,67.8,AK Novo mesto,DG 300,14:14,17:06,Novo mesto
+10.04.2017,152.83,Kristjan Nučič,SI,105.27,52.13,AK Novo mesto,L 23 Super Blanik,12:13,14:24,Novo mesto
+09.04.2017,209.24,Luka Zaletelj,SI,174.77,65.9,AK Novo mesto,DG 100,10:52,14:02,Novo mesto
+09.04.2017,150.92,Edin Čaušević,SI,155.26,58.61,AK Novo mesto,DG 300,11:17,14:16,Novo mesto
+08.04.2017,505.96,Borut Mlakar,SI,598.3,90.37,AK Novo mesto,ASH 31/21m,09:14,16:58,Novo mesto
+08.04.2017,0.0,Uroš Strmec,SI,100.25,41.95,AK Novo mesto,L 23 Super Blanik,13:22,15:51,Novo mesto
+03.04.2017,227.76,Luka Zaletelj,SI,212.31,88.18,AK Novo mesto,DG 100,11:11,13:51,Novo mesto
+03.04.2017,165.03,David Kuhelj,SI,146.59,62.43,AK Novo mesto,DG 300,11:22,13:49,Novo mesto
+02.04.2017,0.0,Roman Žunič,SI,140.07,87.64,AK Novo mesto,G 102 Club Astir,13:40,15:32,Novo mesto
+01.04.2017,486.54,Borut Mlakar,SI,473.64,84.12,AK Novo mesto,ASH 31/21m,10:17,16:18,Novo mesto
+29.03.2017,175.55,Darko Pavlovič,SI,156.33,54.03,AK Novo mesto,DG 100,12:02,15:19,Novo mesto
+29.03.2017,174.47,Borut Mlakar,SI,170.36,49.89,AK Novo mesto,DG 300,12:12,15:49,Novo mesto
+23.03.2017,184.77,Andrej Spudič,SI,165.74,41.9,AK Novo mesto,DG 300,11:03,15:05,Novo mesto
+25.09.2016,148.1,Borut Mlakar,SI,128.53,34.62,AK Novo mesto,DG 300,11:03,15:13,Novo mesto
+22.09.2017,179.56,Marjan Jancic,SI,161.63,58.52,AK Postojna,DG 300,12:02,15:01,Postojna
+22.09.2017,145.34,Matija Kodric,SI,161.43,66.4,AK Edvard Rusjan,DG 800B/18m,11:58,14:42,Postojna
+05.09.2017,293.84,Marjan Jancic,SI,282.25,64.02,AK Postojna,DG 300,11:09,15:45,Postojna
+05.09.2017,244.2,Matija Kodric,SI,251.16,76.1,AK Edvard Rusjan,DG 800B/18m,11:18,14:46,Postojna
+27.08.2017,172.45,Marjan Jancic,SI,169.46,61.77,AK Postojna,DG 300,11:34,14:40,Postojna
+27.08.2017,150.08,Tilen Podboj,SI,147.12,61.05,AK Postojna,DG 100,11:53,14:34,Postojna
+27.08.2017,76.15,Bernard Dobre,SI,54.92,45.28,AK Postojna,L 23 Super Blanik,12:15,13:39,Postojna
+26.08.2017,79.44,Albin Luin,SI,79.94,28.58,AK Ljubljana,DG 800B/18m,11:45,14:50,Postojna
+22.08.2017,178.07,Marjan Jancic,SI,168.82,66.89,AK Postojna,DG 100 Club,10:47,13:28,Postojna
+22.08.2017,158.68,Matija Kodric,SI,158.48,77.03,AK Edvard Rusjan,DG 800B/18m,12:02,14:08,Postojna
+18.08.2017,178.3,Tilen Podboj,SI,146.08,47.8,AK Postojna,DG 100,12:50,16:18,Postojna
+17.08.2017,279.31,Matija Kodric,SI,280.46,100.83,AK Edvard Rusjan,DG 800B/18m,11:53,15:10,Postojna
+17.08.2017,192.08,Maks Simčič,SI,161.03,38.84,AK Postojna,DG 100,10:30,15:31,Postojna
+16.08.2017,149.53,Maks Simčič,SI,128.83,66.72,AK Postojna,DG 100,11:14,13:20,Postojna
+15.08.2017,175.67,Franc Leskovec,SI,153.68,43.71,AK Postojna,DG 300,11:25,15:21,Postojna
+15.08.2017,141.67,Matija Kodric,SI,144.5,66.38,AK Edvard Rusjan,DG 800B/18m,12:12,14:31,Postojna
+15.08.2017,131.33,Tilen Podboj,SI,113.16,35.95,AK Postojna,DG 100,11:52,15:20,Postojna
+15.08.2017,126.74,Maks Simčič,SI,103.25,33.57,AK Postojna,VUK-T,12:02,15:20,Postojna
+15.08.2017,81.82,Bernard Dobre,SI,59.04,36.07,AK Postojna,L 13 Blanik,13:18,15:14,Postojna
+14.08.2017,295.16,Matija Kodric,SI,296.43,87.82,AK Edvard Rusjan,DG 800B/18m,12:00,15:35,Postojna
+14.08.2017,86.77,Bernard Dobre,SI,54.88,28.83,AK Postojna,L 13 Blanik,10:14,12:25,Postojna
+13.08.2017,277.04,Marjan Jancic,SI,267.43,52.75,AK Postojna,DG 100 Club,09:37,14:53,Postojna
+13.08.2017,143.98,Tilen Podboj,SI,117.53,42.93,AK Postojna,VUK-T,13:32,16:32,Postojna
+13.08.2017,50.8,Bernard Dobre,SI,35.72,27.73,AK Postojna,L 23 Super Blanik,13:15,14:46,Postojna
+08.08.2017,196.82,Matija Kodric,SI,198.61,61.01,AK Edvard Rusjan,DG 800B/18m,11:40,15:05,Postojna
+23.07.2017,161.4,Maks Simčič,SI,136.38,37.94,AK Postojna,DG 100,10:59,16:20,Postojna
+23.07.2017,116.42,Bernard Dobre,SI,77.63,27.03,AK Postojna,L 23 Super Blanik,10:29,13:49,Postojna
+22.07.2017,208.88,Maks Simčič,SI,187.05,60.91,AK Postojna,DG 100,11:32,14:56,Postojna
+22.07.2017,99.89,Bernard Dobre,SI,70.45,30.17,AK Postojna,L 13 Blanik,10:53,13:25,Postojna
+22.07.2017,80.01,Andraz Marincic,SI,54.86,21.49,AK Postojna,L 23 Super Blanik,12:38,15:32,Postojna
+18.07.2017,169.95,Tilen Podboj,SI,145.99,47.74,AK Postojna,DG 100,13:08,16:38,Postojna
+16.07.2017,308.45,Luka Znidarsic,SI,354.87,94.73,AK Postojna,Ventus 2cxa 18m FES,10:40,14:49,Postojna
+16.07.2017,282.43,Marjan Jancic,SI,279.31,64.54,AK Postojna,DG 300,10:22,15:12,Postojna
+16.07.2017,215.86,Ales Krusic,SI,207.32,84.16,AK Edvard Rusjan,Ventus 2cM/18m,10:34,13:08,Postojna
+09.07.2017,254.87,Jernej Lokovsek,SI,258.33,64.89,AK Ljubljana,Discus,10:56,15:02,Postojna
+08.07.2017,155.19,Ales Krusic,SI,175.69,91.45,AK Edvard Rusjan,Ventus 2cM/18m,10:26,12:35,Postojna
+02.07.2017,112.81,Franc Leskovec,SI,96.11,44.76,AK Postojna,DG 300,10:39,13:04,Postojna
+01.07.2017,139.57,Ales Krusic,SI,157.72,96.17,AK Edvard Rusjan,Ventus 2cM/18m,14:04,15:48,Postojna
+18.06.2017,244.51,Jernej Lokovsek,SI,240.77,57.14,AK Ljubljana,Discus,10:39,15:00,Postojna
+18.06.2017,168.69,Maks Simčič,SI,146.42,35.56,AK Postojna,DG 100,11:03,15:53,Postojna
+18.06.2017,165.0,Franc Leskovec,SI,143.42,57.3,AK Postojna,DG 100,11:57,14:41,Postojna
+11.06.2017,354.02,Sašo Petek,SI,308.95,59.07,AK Postojna,DG 300,09:28,14:47,Postojna
+11.06.2017,336.42,Jernej Lokovsek,SI,319.09,56.04,AK Ljubljana,Discus,09:40,15:43,Postojna
+11.06.2017,117.23,Tilen Podboj,SI,102.51,31.18,AK Postojna,DG 100,10:38,16:14,Postojna
+28.05.2017,402.14,Marjan Jancic,SI,354.86,68.81,AK Postojna,DG 300,09:28,15:15,Postojna
+28.05.2017,0.0,Igor Cugalj,SI,160.67,28.0,AK Ljubljana,DG 100,10:29,16:49,Postojna
+27.05.2017,162.93,Maks Simčič,SI,145.9,32.69,AK Postojna,DG 300,10:08,15:55,Postojna
+06.05.2017,239.14,Marjan Jancic,SI,231.83,59.41,AK Postojna,DG 300,09:40,13:49,Postojna
+01.05.2017,474.74,Marjan Jancic,SI,437.25,90.34,AK Postojna,DG 300,09:33,15:01,Postojna
+30.04.2017,75.58,Tomislav Rogelj,SI,64.3,19.76,AK Postojna,VUK-T,10:21,14:00,Postojna
+29.04.2017,106.56,Maks Simčič,SI,89.59,20.07,AK Postojna,VUK-T,10:47,16:02,Postojna
+29.04.2017,98.49,Tilen Podboj,SI,84.09,22.95,AK Postojna,DG 100,12:09,16:29,Postojna
+23.04.2017,284.9,Miha Premrl,SI,280.23,79.91,AK Postojna,DG 300,11:20,15:30,Postojna
+23.04.2017,208.94,Sandi Kavalic,SI,197.0,65.26,AK Postojna,DG 100,11:02,15:22,Postojna
+22.04.2017,382.35,Matija Znidarsic,SI,379.4,76.43,AK Postojna,Duo Discus,10:12,15:25,Postojna
+09.04.2017,507.3,Sandi Kavalic,SI,453.23,80.93,AK Postojna,DG 100,09:46,15:35,Postojna
+09.04.2017,500.49,Marjan Jancic,SI,467.29,85.36,AK Postojna,DG 300,09:29,15:25,Postojna
+09.04.2017,371.44,Matija Znidarsic,SI,369.0,81.82,AK Postojna,Duo Discus,10:27,15:14,Postojna
+09.04.2017,337.24,Jernej Lokovsek,SI,335.72,67.85,AK Ljubljana,Discus,10:13,15:18,Postojna
+02.04.2017,232.2,Albin Luin,SI,235.74,55.75,AK Ljubljana,DG 800B/18m,10:18,14:42,Postojna
+30.03.2017,285.64,Matija Kodric,SI,305.85,88.87,AK Edvard Rusjan,DG 808B/18m,11:29,15:01,Postojna
+24.03.2017,133.81,Matija Kodric,SI,143.91,71.55,AK Edvard Rusjan,DG 808B/18m,12:59,15:10,Postojna
+12.03.2017,241.4,Matija Znidarsic,SI,230.3,68.33,AK Postojna,Duo Discus,11:27,14:58,Postojna
+12.03.2017,237.16,Jernej Lokovsek,SI,245.49,65.89,AK Ljubljana,Discus,11:57,15:48,Postojna
+12.03.2017,96.34,Matija Kodric,SI,98.37,46.41,AK Edvard Rusjan,DG 808B/18m,11:47,14:15,Postojna
+11.03.2017,196.85,Matija Znidarsic,SI,188.58,58.37,AK Postojna,Duo Discus,11:32,14:54,Postojna
+11.03.2017,99.65,Albin Luin,SI,101.74,26.46,AK Ljubljana,DG 808B/18m,12:07,16:31,Postojna
+19.02.2017,146.45,Matija Kodric,SI,153.98,82.26,AK Edvard Rusjan,DG 808B/18m,11:39,13:57,Postojna
+30.12.2016,91.29,Albin Luin,SI,92.89,61.55,AK Ljubljana,DG 808B/18m,12:34,14:23,Postojna
+30.12.2016,28.43,Matija Kodric,SI,28.33,37.66,AK Edvard Rusjan,DG 808B/18m,11:40,12:30,Postojna
+22.10.2016,77.16,Albin Luin,SI,77.71,56.01,AK Ljubljana,DG 808B/18m,13:26,14:53,Postojna
+06.10.2016,193.55,Matija Kodric,SI,200.73,79.96,AK Edvard Rusjan,DG 808B/18m,11:42,14:30,Postojna
+06.10.2016,171.87,Marjan Jancic,SI,168.55,67.13,AK Postojna,DG 300,12:56,15:41,Postojna
+25.09.2016,185.19,Matija Znidarsic,SI,175.35,56.27,AK Postojna,Duo Discus,10:34,13:55,Postojna
+24.09.2016,392.59,Marjan Jancic,SI,352.33,86.97,AK Postojna,DG 300,11:09,15:27,Postojna
+24.09.2016,305.41,Ales Krusic,SI,327.26,82.02,AK Edvard Rusjan,Ventus 2cM/18m,10:00,14:20,Postojna
+24.09.2016,281.95,Sandi Kavalic,SI,261.5,62.79,AK Postojna,DG 100,10:33,14:58,Postojna
+24.09.2016,220.36,Matija Znidarsic,SI,227.07,79.49,AK Postojna,Duo Discus,10:21,13:24,Postojna
+22.09.2016,225.04,Marjan Jancic,SI,185.94,57.58,AK Postojna,DG 300,12:26,15:58,Postojna
+23.09.2017,114.8,Luka Hojnik,SI,109.71,34.87,AK Ptuj,LS 6,10:45,14:33,Ptuj Moškanjci
+09.09.2017,100.27,Luka Hojnik,SI,93.41,41.16,AK Ptuj,LS 6,11:46,14:12,Ptuj Moškanjci
+22.08.2017,484.44,Iztok Zagar,SI,376.87,60.25,AK Ptuj,DG 100,09:33,16:15,Ptuj Moškanjci
+22.08.2017,477.36,Denis Škrabl,SI,388.48,60.48,AK Ptuj,DG 300,09:23,16:15,Ptuj Moškanjci
+21.08.2017,175.04,Marko Planinšek,SI,148.25,31.91,AK Ptuj,Std. Jantar,10:19,15:47,Ptuj Moškanjci
+17.08.2017,298.56,Iztok Zagar,SI,257.17,46.92,AK Ptuj,DG 100,10:42,16:28,Ptuj Moškanjci
+17.08.2017,77.28,Marko Planinšek,SI,65.55,16.2,AK Ptuj,DG 100,11:26,16:22,Ptuj Moškanjci
+15.08.2017,102.0,Luka Hojnik,SI,94.61,75.79,AK Ptuj,DG 100,09:58,12:40,Ptuj Moškanjci
+14.08.2017,482.88,Iztok Zagar,SI,384.78,64.72,AK Ptuj,DG 100,10:23,16:33,Ptuj Moškanjci
+14.08.2017,376.58,Luka Hojnik,SI,389.08,63.63,AK Ptuj,LS 6/18m,09:44,16:25,Ptuj Moškanjci
+14.08.2017,362.88,Roman Orešnik,SI,305.41,62.29,AK Ptuj,DG 300,09:56,14:56,Ptuj Moškanjci
+14.08.2017,299.76,Denis Škrabl,SI,266.72,50.64,AK Ptuj,DG 505 22m,11:04,09:27,Ptuj Moškanjci
+13.08.2017,91.03,Roman Orešnik,SI,76.64,24.0,AK Ptuj,DG 100,10:21,14:27,Ptuj Moškanjci
+30.07.2017,95.96,Dejan Filipič,SI,87.52,27.7,AK Ptuj,DG 505 20m,10:06,13:57,Ptuj Moškanjci
+29.07.2017,83.59,Luka Hojnik,SI,83.25,21.1,AK Ptuj,LS 6/18m,09:57,14:02,Ptuj Moškanjci
+28.07.2017,143.42,Dejan Filipič,SI,124.8,37.23,AK Ptuj,DG 300,10:44,14:46,Ptuj Moškanjci
+17.07.2017,465.85,Luka Hojnik,SI,443.07,67.13,AK Ptuj,LS 6/18m,09:19,16:12,Ptuj Moškanjci
+16.07.2017,515.12,Gregor Urbancic,SI,447.84,61.51,AK Ptuj,DG 505 20m,09:33,17:10,Ptuj Moškanjci
+16.07.2017,218.05,Luka Hojnik,SI,210.44,77.23,AK Ptuj,LS 6,10:06,13:08,Ptuj Moškanjci
+13.07.2017,253.75,Gregor Urbancic,SI,209.7,41.12,AK Ptuj,DG 100,09:21,15:51,Ptuj Moškanjci
+13.07.2017,245.3,Luka Hojnik,SI,240.35,46.86,AK Ptuj,LS 6/18m,09:38,15:47,Ptuj Moškanjci
+13.07.2017,242.5,Iztok Zagar,SI,202.31,39.66,AK Ptuj,DG 100,10:08,16:37,Ptuj Moškanjci
+13.07.2017,241.18,Denis Škrabl,SI,204.58,47.44,AK Ptuj,DG 300,09:52,14:59,Ptuj Moškanjci
+13.07.2017,223.28,Tomaz Bezjak,SI,182.52,39.64,AK Ptuj,DG 505 6 Orion,10:32,15:19,Ptuj Moškanjci
+13.07.2017,165.99,Dejan Filipič,SI,139.4,42.79,AK Ptuj,DG 100,10:22,14:01,Ptuj Moškanjci
+12.07.2017,113.62,Tomaz Bezjak,SI,93.62,34.07,AK Ptuj,DG 505 6 Orion,11:50,14:50,Ptuj Moškanjci
+05.07.2017,71.38,Dejan Filipič,SI,63.14,19.65,AK Ptuj,DG 505 20m,10:07,14:16,Ptuj Moškanjci
+01.07.2017,367.19,Dejan Filipič,SI,333.1,40.56,AK Ptuj,DG 300,08:56,17:41,Ptuj Moškanjci
+01.07.2017,353.19,Roman Orešnik,SI,311.83,38.76,AK Ptuj,DG 100,09:04,17:41,Ptuj Moškanjci
+01.07.2017,350.14,Peter Repinc,SI,299.43,50.42,AK Ptuj,DG 505 20m,09:43,16:41,Ptuj Moškanjci
+19.06.2017,325.58,Denis Škrabl,SI,283.26,55.42,AK Ptuj,DG 100,09:34,14:59,Ptuj Moškanjci
+18.06.2017,365.37,Luka Hojnik,SI,328.94,57.57,AK Ptuj,LS 6,09:29,15:30,Ptuj Moškanjci
+15.06.2017,355.68,Iztok Zagar,SI,315.53,49.03,AK Ptuj,DG 100,09:58,16:45,Ptuj Moškanjci
+15.06.2017,321.63,Denis Škrabl,SI,293.88,55.07,AK Ptuj,DG 300,09:20,15:37,Ptuj Moškanjci
+15.06.2017,187.4,Dejan Filipič,SI,166.31,47.34,AK Ptuj,DG 100,09:24,13:22,Ptuj Moškanjci
+15.06.2017,0.0,Marko Planinšek,SI,40.57,33.87,AK Ptuj,Std. Jantar,09:41,11:10,Ptuj Moškanjci
+11.06.2017,430.89,Iztok Zagar,SI,368.88,58.11,AK Ptuj,DG 100,09:00,16:03,Ptuj Moškanjci
+11.06.2017,386.31,Gregor Urbancic,SI,352.13,63.29,AK Ptuj,DG 505 20m,09:23,15:08,Ptuj Moškanjci
+11.06.2017,328.02,Dejan Filipič,SI,300.97,55.62,AK Ptuj,DG 100,08:34,15:47,Ptuj Moškanjci
+11.06.2017,277.55,Roman Orešnik,SI,240.19,45.36,AK Ptuj,DG 100,08:27,14:35,Ptuj Moškanjci
+09.06.2017,89.78,Anja Šneider,SI,75.55,34.79,AK Ptuj,DG 100,11:08,13:24,Ptuj Moškanjci
+08.06.2017,417.93,Denis Škrabl,SI,357.76,52.8,AK Ptuj,DG 300,09:42,17:18,Ptuj Moškanjci
+08.06.2017,381.1,Iztok Zagar,SI,313.61,57.58,AK Ptuj,DG 100,09:35,15:18,Ptuj Moškanjci
+08.06.2017,316.3,Roman Mesko,SI,315.64,72.68,AK Ptuj,LS 6/18m,09:49,14:13,Ptuj Moškanjci
+08.06.2017,312.46,Dejan Filipič,SI,285.41,50.53,AK Ptuj,DG 100,09:26,15:31,Ptuj Moškanjci
+08.06.2017,165.1,Anja Šneider,SI,142.3,24.21,AK Ptuj,DG 100,10:33,17:01,Ptuj Moškanjci
+08.06.2017,163.57,Marko Planinšek,SI,146.6,43.9,AK Ptuj,Std. Jantar,10:25,14:00,Ptuj Moškanjci
+04.06.2017,71.58,Dejan Filipič,SI,61.78,21.01,AK Ptuj,DG 100,10:10,15:16,Ptuj Moškanjci
+28.05.2017,233.06,Iztok Zagar,SI,220.95,39.99,AK Ptuj,DG 100,09:58,15:54,Ptuj Moškanjci
+28.05.2017,168.43,Roman Orešnik,SI,141.07,26.3,AK Ptuj,DG 100,09:04,14:50,Ptuj Moškanjci
+28.05.2017,156.12,Dejan Filipič,SI,132.88,34.17,AK Ptuj,DG 100,09:46,14:37,Ptuj Moškanjci
+28.05.2017,147.26,Ivan Zizek,SI,132.45,36.72,AK Ptuj,DG 505 20m,10:23,14:14,Ptuj Moškanjci
+28.05.2017,145.0,Gregor Petrovic,SI,131.94,36.04,AK Ptuj,DG 100,09:13,13:10,Ptuj Moškanjci
+27.05.2017,333.4,Gregor Urbancic,SI,334.85,57.77,AK Ptuj,DG 505 20m,09:01,15:01,Ptuj Moškanjci
+27.05.2017,309.36,Iztok Zagar,SI,289.6,49.14,AK Ptuj,DG 100,09:38,15:55,Ptuj Moškanjci
+27.05.2017,229.03,Luka Hojnik,SI,224.64,41.06,AK Ptuj,LS 6/18m,09:17,14:57,Ptuj Moškanjci
+27.05.2017,126.37,Damjan Erbus,SI,110.5,26.19,AK Ptuj,DG 100,08:48,13:22,Ptuj Moškanjci
+26.05.2017,276.16,Iztok Zagar,SI,238.33,46.37,AK Ptuj,DG 100,10:32,16:12,Ptuj Moškanjci
+26.05.2017,264.21,Gregor Petrovic,SI,245.42,70.03,AK Ptuj,DG 100,10:50,14:39,Ptuj Moškanjci
+18.05.2017,262.64,Denis Škrabl,SI,229.54,41.76,AK Ptuj,Std. Jantar,09:27,15:40,Ptuj Moškanjci
+18.05.2017,251.86,Iztok Zagar,SI,213.23,37.03,AK Ptuj,DG 100,10:05,16:08,Ptuj Moškanjci
+18.05.2017,229.55,Dejan Filipič,SI,191.68,27.55,AK Ptuj,DG 100,09:16,16:48,Ptuj Moškanjci
+18.05.2017,201.12,Roman Orešnik,SI,168.19,27.94,AK Ptuj,DG 100,09:37,15:52,Ptuj Moškanjci
+17.05.2017,95.23,Roman Orešnik,SI,79.4,63.68,AK Ptuj,DG 100,14:02,15:26,Ptuj Moškanjci
+16.05.2017,287.1,Roman Mesko,SI,279.05,71.45,AK Ptuj,LS 6/18m,10:33,14:37,Ptuj Moškanjci
+14.05.2017,143.85,Roman Orešnik,SI,128.21,35.27,AK Ptuj,Std. Jantar,09:44,13:44,Ptuj Moškanjci
+14.05.2017,139.4,Dejan Filipič,SI,122.22,38.99,AK Ptuj,DG 100,09:35,14:11,Ptuj Moškanjci
+02.05.2017,370.1,Denis Škrabl,SI,310.54,51.2,AK Ptuj,DG 100,09:18,15:41,Ptuj Moškanjci
+02.05.2017,304.6,Gregor Petrovic,SI,294.04,65.35,AK Ptuj,DG 500 20m,09:47,15:46,Ptuj Moškanjci
+02.05.2017,216.87,Luka Hojnik,SI,212.07,58.68,AK Ptuj,LS 6/18m,13:05,16:59,Ptuj Moškanjci
+02.05.2017,147.85,Roman Orešnik,SI,124.67,18.85,AK Ptuj,Std. Jantar,08:50,16:08,Ptuj Moškanjci
+02.05.2017,126.57,Dejan Filipič,SI,110.1,22.2,AK Ptuj,DG 100,08:58,14:32,Ptuj Moškanjci
+01.05.2017,295.41,Ivan Zizek,SI,290.57,47.84,AK Ptuj,LS 6/18m,10:09,17:17,Ptuj Moškanjci
+30.04.2017,433.88,Roman Mesko,SI,449.16,75.28,AK Ptuj,LS 6/18m,09:18,15:29,Ptuj Moškanjci
+30.04.2017,412.79,Gregor Petrovic,SI,358.67,72.44,AK Ptuj,DG 100,08:35,13:57,Ptuj Moškanjci
+30.04.2017,410.43,Gregor Urbancic,SI,357.66,53.1,AK Ptuj,DG 100,09:13,16:26,Ptuj Moškanjci
+30.04.2017,332.61,Luka Hojnik,SI,286.63,47.73,AK Ptuj,DG 505 20m,09:52,16:18,Ptuj Moškanjci
+30.04.2017,122.05,Dejan Filipič,SI,112.91,36.12,AK Ptuj,DG 100,09:25,12:57,Ptuj Moškanjci
+30.04.2017,121.61,Roman Orešnik,SI,111.51,29.32,AK Ptuj,Std. Jantar,08:55,12:51,Ptuj Moškanjci
+23.04.2017,111.34,Denis Škrabl,SI,92.45,54.49,AK Ptuj,DG 100,09:42,11:48,Ptuj Moškanjci
+23.04.2017,84.58,Ivan Zizek,SI,88.86,54.55,AK Ptuj,LS 6/18m,09:23,11:42,Ptuj Moškanjci
+22.04.2017,351.12,Luka Hojnik,SI,335.89,58.78,AK Ptuj,LS 6,09:18,15:17,Ptuj Moškanjci
+22.04.2017,183.78,Dejan Filipič,SI,152.79,40.67,AK Ptuj,DG 100,10:50,15:22,Ptuj Moškanjci
+22.04.2017,165.76,Roman Orešnik,SI,140.0,25.1,AK Ptuj,Std. Jantar,08:44,15:11,Ptuj Moškanjci
+21.04.2017,152.46,Iztok Zagar,SI,128.42,33.52,AK Ptuj,DG 100,10:47,15:19,Ptuj Moškanjci
+21.04.2017,140.03,Denis Škrabl,SI,135.44,29.1,AK Ptuj,Jantar 2,10:53,15:44,Ptuj Moškanjci
+20.04.2017,972.94,Gregor Urbancic,SI,999.45,91.1,AK Ptuj,DG 300,06:12,17:41,Ptuj Moškanjci
+17.04.2017,252.53,Roman Orešnik,SI,213.36,48.44,AK Ptuj,DG 100,09:12,14:27,Ptuj Moškanjci
+17.04.2017,133.46,Dejan Filipič,SI,112.08,29.16,AK Ptuj,Std. Jantar,09:04,13:46,Ptuj Moškanjci
+09.04.2017,213.69,Denis Škrabl,SI,195.64,54.88,AK Ptuj,DG 100,11:08,15:27,Ptuj Moškanjci
+09.04.2017,190.37,Gregor Urbancic,SI,166.85,50.09,AK Ptuj,DG 300,12:29,16:03,Ptuj Moškanjci
+09.04.2017,182.4,Dejan Filipič,SI,155.78,32.42,AK Ptuj,DG 100,10:55,16:41,Ptuj Moškanjci
+08.04.2017,95.18,Iztok Zagar,SI,88.38,40.48,AK Ptuj,DG 100,10:22,13:29,Ptuj Moškanjci
+08.04.2017,93.54,Luka Hojnik,SI,92.22,51.65,AK Ptuj,LS 6/18m,09:57,11:57,Ptuj Moškanjci
+08.04.2017,77.97,Dejan Filipič,SI,68.29,31.89,AK Ptuj,DG 100,09:11,11:42,Ptuj Moškanjci
+08.04.2017,45.83,Roman Orešnik,SI,38.67,23.8,AK Ptuj,DG 100,09:24,11:21,Ptuj Moškanjci
+02.04.2017,267.86,Gregor Petrovic,SI,229.77,81.54,AK Ptuj,DG 100,12:21,15:31,Ptuj Moškanjci
+02.04.2017,240.75,Miroslav Klemen,SI,148.39,41.15, No Club,Bergfalke II,11:20,15:14,Ptuj Moškanjci
+01.04.2017,227.33,Iztok Zagar,SI,189.83,39.14,AK Ptuj,DG 100,12:19,17:39,Ptuj Moškanjci
+01.04.2017,0.0,Denis Škrabl,SI,155.72,37.61,AK Ptuj,Jantar 2,12:00,16:28,Ptuj Moškanjci
+01.04.2017,0.0,Roman Orešnik,SI,83.79,19.01,AK Ptuj,DG 100,11:46,16:39,Ptuj Moškanjci
+10.03.2017,528.13,Gregor Urbancic,SI,509.98,79.94,AK Ptuj,DG 100,10:16,17:10,Ptuj Moškanjci
+25.09.2016,253.94,Iztok Zagar,SI,215.62,45.06,AK Ptuj,DG 100,10:32,16:01,Ptuj Moškanjci
+25.09.2016,0.0,Roman Orešnik,SI,81.64,14.46,AK Ptuj,DG 100,10:12,16:11,Ptuj Moškanjci
+25.09.2016,0.0,Denis Škrabl,SI,157.69,39.32,AK Ptuj,DG 100,10:24,15:41,Ptuj Moškanjci
+24.09.2016,241.73,Luka Hojnik,SI,232.4,62.21,AK Ptuj,LS 6/18m,11:22,15:44,Ptuj Moškanjci
+24.09.2016,0.0,Dejan Filipič,SI,51.76,27.27,AK Ptuj,DG 100,13:29,16:02,Ptuj Moškanjci
+10.04.2017,630.22,Alexander Friedl,DE,601.73,99.68,LSC Schliersee,Discus 2T/18m,10:13,16:23,Slovenj Gradec
+10.04.2017,429.34,Wolfgang Huber,DE,418.13,85.53,LSC Schliersee,Discus,10:42,16:19,Slovenj Gradec
+10.04.2017,336.0,Janika Scheglmann,DE,303.71,74.0,LSC Schliersee,Std. Libelle,11:07,15:27,Slovenj Gradec
+10.04.2017,260.67,Sven Richter,DE,267.87,83.85,LSV Weilheim-Peißenberg,DG 1000/20m,10:56,14:32,Slovenj Gradec
+09.04.2017,378.9,Hans Fitterer,DE,436.49,99.74,LSC Schliersee,Antares 20m,10:20,15:03,Slovenj Gradec
+09.04.2017,327.91,Wolfgang Huber,DE,322.26,64.33,LSC Schliersee,Discus,10:43,15:58,Slovenj Gradec
+09.04.2017,293.15,Janika Scheglmann,DE,255.14,69.14,LSC Schliersee,Std. Libelle,10:51,15:30,Slovenj Gradec
+09.04.2017,214.26,Peter Feigl,DE,202.3,59.55,LSV Weilheim-Peißenberg,DG 1000/20m,10:32,14:24,Slovenj Gradec
+08.04.2017,528.46,Hans Fitterer,DE,577.92,93.18,LSC Schliersee,Antares 20m,09:31,16:22,Slovenj Gradec
+08.04.2017,298.52,Wolfgang Huber,DE,266.45,55.87,LSC Schliersee,Discus,10:01,15:22,Slovenj Gradec
+08.04.2017,162.15,Sven Richter,DE,166.32,53.99,LSV Weilheim-Peißenberg,DG 1000/20m,10:11,13:31,Slovenj Gradec
+08.04.2017,145.99,Janika Scheglmann,DE,122.28,49.44,LSC Schliersee,Std. Libelle,10:14,13:56,Slovenj Gradec
+06.04.2017,561.13,Hans Fitterer,DE,645.08,98.49,LSC Schliersee,Antares 20m,09:50,16:44,Slovenj Gradec
+06.04.2017,437.59,Peter Feigl,DE,466.0,79.92,LSV Weilheim-Peißenberg,DG 1000/20m,10:22,16:42,Slovenj Gradec
+06.04.2017,422.0,Wolfgang Huber,DE,426.91,72.26,LSC Schliersee,Discus,10:37,16:53,Slovenj Gradec
+06.04.2017,340.62,Janika Scheglmann,DE,324.79,64.77,LSC Schliersee,Std. Libelle,10:47,16:13,Slovenj Gradec
+04.04.2017,172.58,Hans Fitterer,DE,183.25,92.14,LSC Schliersee,Antares 20m,09:59,12:25,Slovenj Gradec
+04.04.2017,120.38,Wolfgang Huber,DE,103.94,54.26,LSC Schliersee,Discus,10:13,12:24,Slovenj Gradec
+04.04.2017,107.88,Peter Feigl,DE,99.75,61.2,LSV Weilheim-Peißenberg,DG 1000/20m,10:35,12:22,Slovenj Gradec
+04.04.2017,73.65,Janika Scheglmann,DE,64.72,41.24,LSC Schliersee,Std. Libelle,10:22,12:18,Slovenj Gradec
+03.04.2017,617.05,Hans Fitterer,DE,627.2,103.56,LSC Schliersee,Antares 20m,09:45,16:24,Slovenj Gradec
+03.04.2017,334.56,Wolfgang Huber,DE,315.63,65.97,LSC Schliersee,Discus,10:07,15:22,Slovenj Gradec
+03.04.2017,308.05,Janika Scheglmann,DE,273.11,58.51,LSC Schliersee,Std. Libelle,10:17,15:26,Slovenj Gradec
+03.04.2017,244.08,Sven Richter,DE,255.56,73.48,LSV Weilheim-Peißenberg,DG 1000/20m,10:29,14:08,Slovenj Gradec
+02.04.2017,555.7,Hans Fitterer,DE,570.49,107.97,LSC Schliersee,Antares 20m,10:14,16:01,Slovenj Gradec
+02.04.2017,452.75,Wolfgang Huber,DE,415.2,84.12,LSC Schliersee,Discus,10:23,16:07,Slovenj Gradec
+02.04.2017,411.25,Janika Scheglmann,DE,349.67,72.46,LSC Schliersee,Std. Libelle,10:34,15:44,Slovenj Gradec
+02.04.2017,264.79,Sven Richter,DE,245.13,78.84,LSV Weilheim-Peißenberg,DG 1000/20m,11:00,14:17,Slovenj Gradec
+02.04.2017,233.49,Andreas Bucher,DE,248.18,82.45,LSC Schliersee,Janus C RG,10:46,14:06,Slovenj Gradec
+01.04.2017,562.65,Hans Fitterer,DE,566.78,106.47,LSC Schliersee,Antares 20m,10:58,16:40,Slovenj Gradec
+01.04.2017,452.19,Wolfgang Huber,DE,435.59,85.37,LSC Schliersee,Discus,11:04,16:23,Slovenj Gradec
+01.04.2017,307.13,Janika Scheglmann,DE,294.9,63.69,LSC Schliersee,Std. Libelle,11:15,16:14,Slovenj Gradec
+25.09.2016,103.2,Joze Knap,SI,92.75,38.97,KAS,DG 300,11:38,14:28,Slovenj Gradec
+17.07.2017,523.38,Srecko Strnisnik,SI,467.56,62.63,KAS,DG 500 20m,08:57,16:55,Velenje Lajše
+19.06.2017,355.31,Nikolaj Slana,SI,390.47,60.45, No Club,DG 800/18m,09:20,15:54,Velenje Lajše
+19.06.2017,325.59,Ales Fink,SI,319.39,67.8,KAS,DG 500 20m,09:28,14:14,Velenje Lajše
+11.06.2017,251.92,Joze Knap,SI,224.15,39.65,KAS,Astir CS,09:56,15:53,Velenje Lajše
+18.05.2017,305.9,Nikolaj Slana,SI,337.23,61.24, No Club,DG 800/18m,09:24,15:03,Velenje Lajše
+30.04.2017,464.85,Goran Hrustl,SI,464.28,73.83,AK-Gorenje,DG 300,09:40,16:15,Velenje Lajše
+30.04.2017,384.94,Nikolaj Slana,SI,442.76,89.37, No Club,DG 800/18m,09:57,15:01,Velenje Lajše
+09.04.2017,365.1,Goran Hrustl,SI,326.07,55.15,AK-Gorenje,DG 300,09:40,16:24,Velenje Lajše
+08.04.2017,291.51,Goran Hrustl,SI,270.69,60.76,AK-Gorenje,DG 300,10:59,15:56,Velenje Lajše
+08.04.2017,213.26,Joze Knap,SI,187.41,44.66,KAS,DG 505 6 Orion,11:11,15:54,Velenje Lajše
+22.03.2017,0.0,Simone Poiani,IT,0.0,0.0,AVS Verona,Pegase,11:35,11:54,Velenje Lajše
