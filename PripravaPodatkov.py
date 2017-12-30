@@ -152,7 +152,8 @@ def zapisi_json(podatki, ime_datoteke):
 def zapisi_csv(podatki, polja, ime_datoteke):
     with open(ime_datoteke, 'w', encoding='utf-8') as datoteka:
         pisalec = csv.DictWriter(datoteka, polja, extrasaction='ignore')
-        pisalec.writeheader()
+        pisalec.writer.writerow(['Datum', 'Točke', 'Ime', 'Država', 'Dolžina [km]', 'Hitrost [km/h]',
+                                 'Klub', 'Letalo', 'Vzlet', 'Pristanek', 'Letališče'])
         for podatek in podatki:
             pisalec.writerow(podatek)
 
@@ -163,13 +164,13 @@ def zapisi_csv(podatki, polja, ime_datoteke):
 leti = preberi_lete_v_imeniku('leti_2017')
 
 
-zapisi_json(leti, 'leti_2017.json')
+zapisi_json(leti, 'leti.json')
 polja = [
     'datum', 'tocke', 'ime', 'drzava', 'dolzina', 'hitrost',
     'klub', 'letalo', 'vzlet', 'pristanek', 'letalisce'
 ]
 
-zapisi_csv(leti, polja, 'leti_2017.csv')
+zapisi_csv(leti, polja, 'leti.csv')
 
 
             
